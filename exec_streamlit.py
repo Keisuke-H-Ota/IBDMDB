@@ -177,7 +177,7 @@ text = '''
 
 このプロジェクトでは**クローン病（CD）**患者 67 名、**潰瘍性大腸炎（UC）**患者 38 名、**非炎症性腸疾患（nonIBD）**患者 27 名から約 1 年間にわたって糞便試料が提供されています。
 アプリケーションでは被験者ごとに約 1 年間分のメタゲノムデータおよびメタボロームデータを追跡・可視化することができます。**次のプルダウンから着目したい被験者を選択しましょう。**\n
-性質の似ている被験者を調べたい場合は [PLS-ROG](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/cem.2883) の解析結果を参考にしましょう。[こちら](https://keisukeota.shinyapps.io/IBDMDB_PLSROG/)を参照してください。
+性質の似ている被験者を調べたい場合は [PLS-ROG](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/cem.2883) の解析結果を参考にしましょう。[こちら](https://keisukeota.shinyapps.io/IBDMDB/)を参照してください。
 
 '''
 st.markdown(text)

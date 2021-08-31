@@ -1,0 +1,2349 @@
+	feature_id	axis	embed_type	values
+0	UNKNOWN	0	microbe	-1.222556710243225
+1	c__Methanobacteria|o__Methanobacteriales	0	microbe	-1.3180724382400513
+2	c__Thermoplasmata|o__Methanomassiliicoccales	0	microbe	-1.0075595378875732
+3	c__Actinobacteria|o__Actinomycetales	0	microbe	-1.191719651222229
+4	c__Actinobacteria|o__Bifidobacteriales	0	microbe	-1.1205646991729736
+5	c__Actinobacteria|o__Corynebacteriales	0	microbe	0.9503049254417419
+6	c__Actinobacteria|o__Micrococcales	0	microbe	-0.11992570012807846
+7	c__Actinobacteria|o__Propionibacteriales	0	microbe	-0.13389496505260468
+8	c__Coriobacteriia|o__Coriobacteriales	0	microbe	-0.8236733078956604
+9	c__Coriobacteriia|o__Eggerthellales	0	microbe	-0.9639515280723572
+10	c__Bacteroidia|o__Bacteroidales	0	microbe	-1.0959900617599487
+11	c__Candidatus_Melainabacteria_unclassified|o__Candidatus_Gastranaerophilales	0	microbe	0.7241635322570801
+12	c__Bacilli|o__Bacillales	0	microbe	-0.8714089393615723
+13	c__Bacilli|o__Lactobacillales	0	microbe	-1.320778727531433
+14	c__Clostridia|o__Clostridiales	0	microbe	-1.1639682054519653
+15	c__Erysipelotrichia|o__Erysipelotrichales	0	microbe	-1.6689138412475586
+16	c__Firmicutes_unclassified|o__Firmicutes_unclassified	0	microbe	-0.8184715509414673
+17	c__Negativicutes|o__Acidaminococcales	0	microbe	-0.8674795627593994
+18	c__Negativicutes|o__Selenomonadales	0	microbe	0.7684133648872375
+19	c__Negativicutes|o__Veillonellales	0	microbe	-1.0296542644500732
+20	c__Tissierellia|o__Tissierellales	0	microbe	-1.1468697786331177
+21	c__Tissierellia|o__Tissierellia_unclassified	0	microbe	-1.8809720277786255
+22	c__Fusobacteriia|o__Fusobacteriales	0	microbe	-0.9209248423576355
+23	c__Lentisphaeria|o__Victivallales	0	microbe	0.4042660892009735
+24	c__Betaproteobacteria|o__Burkholderiales	0	microbe	-1.108204960823059
+25	c__Betaproteobacteria|o__Neisseriales	0	microbe	-1.7447903156280518
+26	c__Deltaproteobacteria|o__Desulfovibrionales	0	microbe	-1.3343071937561035
+27	c__Epsilonproteobacteria|o__Campylobacterales	0	microbe	1.4404839277267456
+28	c__Gammaproteobacteria|o__Enterobacterales	0	microbe	-1.1414613723754883
+29	c__Gammaproteobacteria|o__Pasteurellales	0	microbe	-1.1242034435272217
+30	c__Gammaproteobacteria|o__Pseudomonadales	0	microbe	0.9720470309257507
+31	c__Proteobacteria_unclassified|o__Proteobacteria_unclassified	0	microbe	-0.133754700422287
+32	c__Synergistia|o__Synergistales	0	microbe	-0.14543868601322174
+33	c__Verrucomicrobiae|o__Verrucomicrobiales	0	microbe	-1.0984822511672974
+34	c__Saccharomycetes|o__Saccharomycetales	0	microbe	1.5538244247436523
+35	c__Eukaryota_unclassified|o__Eukaryota_unclassified	0	microbe	0.01819605380296707
+36	UNKNOWN	1	microbe	-0.7754587531089783
+37	c__Methanobacteria|o__Methanobacteriales	1	microbe	0.03154977411031723
+38	c__Thermoplasmata|o__Methanomassiliicoccales	1	microbe	-1.3145781755447388
+39	c__Actinobacteria|o__Actinomycetales	1	microbe	-0.232474222779274
+40	c__Actinobacteria|o__Bifidobacteriales	1	microbe	-0.6256304979324341
+41	c__Actinobacteria|o__Corynebacteriales	1	microbe	0.3880665600299835
+42	c__Actinobacteria|o__Micrococcales	1	microbe	1.2918293476104736
+43	c__Actinobacteria|o__Propionibacteriales	1	microbe	0.9032741785049438
+44	c__Coriobacteriia|o__Coriobacteriales	1	microbe	-0.7747406363487244
+45	c__Coriobacteriia|o__Eggerthellales	1	microbe	-2.2106969356536865
+46	c__Bacteroidia|o__Bacteroidales	1	microbe	-0.9042074084281921
+47	c__Candidatus_Melainabacteria_unclassified|o__Candidatus_Gastranaerophilales	1	microbe	0.18959732353687286
+48	c__Bacilli|o__Bacillales	1	microbe	-1.0495660305023193
+49	c__Bacilli|o__Lactobacillales	1	microbe	-0.3917313516139984
+50	c__Clostridia|o__Clostridiales	1	microbe	-0.8909069895744324
+51	c__Erysipelotrichia|o__Erysipelotrichales	1	microbe	-0.8209296464920044
+52	c__Firmicutes_unclassified|o__Firmicutes_unclassified	1	microbe	-0.8333002328872681
+53	c__Negativicutes|o__Acidaminococcales	1	microbe	-0.9390568733215332
+54	c__Negativicutes|o__Selenomonadales	1	microbe	-0.5626937747001648
+55	c__Negativicutes|o__Veillonellales	1	microbe	-0.7914270162582397
+56	c__Tissierellia|o__Tissierellales	1	microbe	-0.9309765100479126
+57	c__Tissierellia|o__Tissierellia_unclassified	1	microbe	0.614640474319458
+58	c__Fusobacteriia|o__Fusobacteriales	1	microbe	0.40256497263908386
+59	c__Lentisphaeria|o__Victivallales	1	microbe	0.6282389760017395
+60	c__Betaproteobacteria|o__Burkholderiales	1	microbe	-0.7784795761108398
+61	c__Betaproteobacteria|o__Neisseriales	1	microbe	0.053649306297302246
+62	c__Deltaproteobacteria|o__Desulfovibrionales	1	microbe	-0.15588223934173584
+63	c__Epsilonproteobacteria|o__Campylobacterales	1	microbe	-0.21069923043251038
+64	c__Gammaproteobacteria|o__Enterobacterales	1	microbe	-0.6175473928451538
+65	c__Gammaproteobacteria|o__Pasteurellales	1	microbe	-0.38951367139816284
+66	c__Gammaproteobacteria|o__Pseudomonadales	1	microbe	-0.07569004595279694
+67	c__Proteobacteria_unclassified|o__Proteobacteria_unclassified	1	microbe	0.8038728833198547
+68	c__Synergistia|o__Synergistales	1	microbe	-0.2781478464603424
+69	c__Verrucomicrobiae|o__Verrucomicrobiales	1	microbe	-0.8229126930236816
+70	c__Saccharomycetes|o__Saccharomycetales	1	microbe	1.1746996641159058
+71	c__Eukaryota_unclassified|o__Eukaryota_unclassified	1	microbe	0.15473927557468414
+72	UNKNOWN	2	microbe	0.23459960520267487
+73	c__Methanobacteria|o__Methanobacteriales	2	microbe	1.1307536363601685
+74	c__Thermoplasmata|o__Methanomassiliicoccales	2	microbe	-0.3071078658103943
+75	c__Actinobacteria|o__Actinomycetales	2	microbe	0.9677450656890869
+76	c__Actinobacteria|o__Bifidobacteriales	2	microbe	0.588791012763977
+77	c__Actinobacteria|o__Corynebacteriales	2	microbe	-1.7463390827178955
+78	c__Actinobacteria|o__Micrococcales	2	microbe	-1.8912262916564941
+79	c__Actinobacteria|o__Propionibacteriales	2	microbe	-1.0176706314086914
+80	c__Coriobacteriia|o__Coriobacteriales	2	microbe	0.8312731385231018
+81	c__Coriobacteriia|o__Eggerthellales	2	microbe	0.31449076533317566
+82	c__Bacteroidia|o__Bacteroidales	2	microbe	0.8548874258995056
+83	c__Candidatus_Melainabacteria_unclassified|o__Candidatus_Gastranaerophilales	2	microbe	0.06049848347902298
+84	c__Bacilli|o__Bacillales	2	microbe	-1.4615559577941895
+85	c__Bacilli|o__Lactobacillales	2	microbe	0.30568113923072815
+86	c__Clostridia|o__Clostridiales	2	microbe	0.8436566591262817
+87	c__Erysipelotrichia|o__Erysipelotrichales	2	microbe	0.6944965124130249
+88	c__Firmicutes_unclassified|o__Firmicutes_unclassified	2	microbe	0.9001367688179016
+89	c__Negativicutes|o__Acidaminococcales	2	microbe	-0.8247815370559692
+90	c__Negativicutes|o__Selenomonadales	2	microbe	0.19887498021125793
+91	c__Negativicutes|o__Veillonellales	2	microbe	0.4481087028980255
+92	c__Tissierellia|o__Tissierellales	2	microbe	0.3333407938480377
+93	c__Tissierellia|o__Tissierellia_unclassified	2	microbe	1.446674108505249
+94	c__Fusobacteriia|o__Fusobacteriales	2	microbe	-0.039928507059812546
+95	c__Lentisphaeria|o__Victivallales	2	microbe	-0.3102809190750122
+96	c__Betaproteobacteria|o__Burkholderiales	2	microbe	0.655718982219696
+97	c__Betaproteobacteria|o__Neisseriales	2	microbe	-0.1929144710302353
+98	c__Deltaproteobacteria|o__Desulfovibrionales	2	microbe	0.1595245897769928
+99	c__Epsilonproteobacteria|o__Campylobacterales	2	microbe	-0.8265835046768188
+100	c__Gammaproteobacteria|o__Enterobacterales	2	microbe	0.36370396614074707
+101	c__Gammaproteobacteria|o__Pasteurellales	2	microbe	0.14358842372894287
+102	c__Gammaproteobacteria|o__Pseudomonadales	2	microbe	0.44661015272140503
+103	c__Proteobacteria_unclassified|o__Proteobacteria_unclassified	2	microbe	1.2910512685775757
+104	c__Synergistia|o__Synergistales	2	microbe	-0.0572996623814106
+105	c__Verrucomicrobiae|o__Verrucomicrobiales	2	microbe	0.9733700156211853
+106	c__Saccharomycetes|o__Saccharomycetales	2	microbe	-0.18534491956233978
+107	c__Eukaryota_unclassified|o__Eukaryota_unclassified	2	microbe	-1.8892580270767212
+0	1-3-7-trimethylurate	0	metabolite	0.0
+1	1-methylguanine	0	metabolite	1.2749699354171753
+2	1-methylguanosine	0	metabolite	2.91690993309021
+3	1-methylhistamine	0	metabolite	2.045116424560547
+4	1-methylnicotinamide	0	metabolite	2.950562000274658
+5	1.2.3.4-tetrahydro-beta-carboline-1.3-dicarboxylate	0	metabolite	2.499042510986328
+6	10-heptadecenoate	0	metabolite	1.2279678583145142
+7	10-nonadecenoate	0	metabolite	0.9837971925735474
+8	12.13-diHOME	0	metabolite	1.2000432014465332
+9	13-cis-retinoic acid	0	metabolite	2.6551530361175537
+10	13-docosenoate	0	metabolite	2.092022180557251
+11	17-methylstearate	0	metabolite	2.4574315547943115
+12	2'-O-methyladenosine	0	metabolite	1.7001111507415771
+13	2-aminoadipate	0	metabolite	1.001667857170105
+14	2-aminobutyrate	0	metabolite	2.1857426166534424
+15	2-aminoheptanoic acid	0	metabolite	3.5948705673217773
+16	2-deoxyadenosine	0	metabolite	-0.015517627820372581
+17	2-deoxycytidine	0	metabolite	0.19146397709846497
+18	2-hydroxy-3-methylbutyrate	0	metabolite	0.963922917842865
+19	2-hydroxy-3-methylpentanoate	0	metabolite	1.173121690750122
+20	2-hydroxyglutarate	0	metabolite	1.675700068473816
+21	2-hydroxyhexadecanoate	0	metabolite	1.3206777572631836
+22	2-hydroxyibuprofen	0	metabolite	0.6856400370597839
+23	2-hydroxyoctanoate	0	metabolite	1.463653326034546
+24	21-deoxycortisol	0	metabolite	2.7129580974578857
+25	3'-O-methyladenosine	0	metabolite	0.6777920722961426
+26	3-hydroxydecanoate	0	metabolite	0.13448205590248108
+27	3-hydroxymethylglutarate	0	metabolite	1.9959301948547363
+28	3-hydroxyoctanoate	0	metabolite	2.7495007514953613
+29	3-methyladipate/pimelate	0	metabolite	2.2098302841186523
+30	3-methylglutaconate	0	metabolite	2.657926321029663
+31	3-methylhistidine	0	metabolite	2.920121431350708
+32	3-methylxanthine	0	metabolite	0.47361916303634644
+33	4-aminophenol	0	metabolite	2.6696295738220215
+34	4-guanidinobutanoic acid	0	metabolite	1.1294960975646973
+35	4-hydroxy-3-methylacetophenone	0	metabolite	2.5408997535705566
+36	4-hydroxybenzaldehyde	0	metabolite	1.8789114952087402
+37	4-hydroxybenzeneacetonitrile	0	metabolite	3.4767117500305176
+38	4-hydroxystyrene	0	metabolite	1.3222944736480713
+39	4-methylcatechol	0	metabolite	0.6480455994606018
+40	4-nitrophenol	0	metabolite	1.307784914970398
+41	4-pyridoxate	0	metabolite	0.6774948239326477
+42	5-acetylamino-6-amino-3-methyluracil	0	metabolite	1.7055063247680664
+43	5-aminolevulinic acid	0	metabolite	0.44177642464637756
+44	5-dodecenoate	0	metabolite	2.860419511795044
+45	5-hydroxytryptophan	0	metabolite	1.3944571018218994
+46	5alpha-cholestan-3beta-ol	0	metabolite	2.2656633853912354
+47	7-methylguanine	0	metabolite	0.6214931011199951
+48	7-methylxanthine	0	metabolite	-0.4185534417629242
+49	8-hydroxy-deoxyguanosine	0	metabolite	1.964656114578247
+50	9.10-diHOME	0	metabolite	1.2848135232925415
+51	ADMA/SDMA	0	metabolite	-0.7031876444816589
+52	C10 carnitine	0	metabolite	1.5192452669143677
+53	C10:2 carnitine	0	metabolite	0.46897900104522705
+54	C12 carnitine	0	metabolite	1.9604874849319458
+55	C12:1 carnitine	0	metabolite	0.8422032594680786
+56	C14 carnitine	0	metabolite	1.169539213180542
+57	C14:0 CE	0	metabolite	2.7974514961242676
+58	C14:0 LPC	0	metabolite	0.8729346394538879
+59	C14:0 SM	0	metabolite	2.6501755714416504
+60	C14:1 carnitine	0	metabolite	0.6977907419204712
+61	C14:2 carnitine	0	metabolite	0.8728196620941162
+62	C16 carnitine	0	metabolite	0.6328093409538269
+63	C16-OH carnitine	0	metabolite	1.432050108909607
+64	C16:0 CE	0	metabolite	1.5531848669052124
+65	C16:0 Ceramide (d18:1)	0	metabolite	0.23368455469608307
+66	C16:0 LPC	0	metabolite	-0.3887123167514801
+67	C16:0 LPE	0	metabolite	0.9880074858665466
+68	C16:0 SM	0	metabolite	0.48080509901046753
+69	C16:1 CE	0	metabolite	1.4042954444885254
+70	C16:1 LPC	0	metabolite	1.6572872400283813
+71	C16:1 LPC plasmalogen	0	metabolite	-0.10477625578641891
+72	C16:1 LPE	0	metabolite	2.9299211502075195
+73	C16:1 MAG	0	metabolite	1.1404380798339844
+74	C16:1 SM	0	metabolite	1.9167604446411133
+75	C18 carnitine	0	metabolite	0.9217617511749268
+76	C18:0 CE	0	metabolite	1.570261001586914
+77	C18:0 LPC	0	metabolite	-0.8666766285896301
+78	C18:0 LPE	0	metabolite	1.3450247049331665
+79	C18:0 LPE-A	0	metabolite	-0.6574264168739319
+80	C18:0 LPE-B	0	metabolite	0.9848501682281494
+81	C18:0 MAG	0	metabolite	1.054171085357666
+82	C18:0 SM	0	metabolite	0.3294585347175598
+83	C18:1 CE	0	metabolite	0.35269805788993835
+84	C18:1 LPC	0	metabolite	0.42763128876686096
+85	C18:1 LPC plasmalogen	0	metabolite	0.8266292810440063
+86	C18:1 LPE	0	metabolite	2.5972797870635986
+87	C18:1 SM	0	metabolite	3.2482352256774902
+88	C18:1 carnitine	0	metabolite	0.20308060944080353
+89	C18:1-OH carnitine	0	metabolite	0.4236209988594055
+90	C18:2 CE	0	metabolite	0.9310340285301208
+91	C18:2 LPC	0	metabolite	-0.6915549039840698
+92	C18:2 LPE	0	metabolite	2.4824631214141846
+93	C18:2 carnitine	0	metabolite	1.3410714864730835
+94	C18:3 CE	0	metabolite	2.402108907699585
+95	C18:3 LPC	0	metabolite	0.645809531211853
+96	C2 Ceramide (d18:1)	0	metabolite	2.098849058151245
+97	C2 carnitine	0	metabolite	1.1340265274047852
+98	C20 carnitine	0	metabolite	0.7053379416465759
+99	C20:0 LPE	0	metabolite	0.1769467145204544
+100	C20:0 SM	0	metabolite	2.0850894451141357
+101	C20:1 LPC	0	metabolite	1.158637285232544
+102	C20:3 CE	0	metabolite	2.0142176151275635
+103	C20:3 LPC	0	metabolite	1.1505998373031616
+104	C20:4 CE	0	metabolite	0.6153050065040588
+105	C20:4 LPC	0	metabolite	2.2854087352752686
+106	C20:4 LPE	0	metabolite	1.2661365270614624
+107	C20:4 carnitine	0	metabolite	0.6418053507804871
+108	C20:5 CE	0	metabolite	1.7415235042572021
+109	C20:5 LPC	0	metabolite	0.7425656914710999
+110	C22:0 Ceramide (d18:1)	0	metabolite	1.7908951044082642
+111	C22:0 LPE	0	metabolite	3.0009846687316895
+112	C22:0 SM	0	metabolite	0.8634477257728577
+113	C22:1 MAG	0	metabolite	2.599318504333496
+114	C22:1 SM	0	metabolite	1.4900705814361572
+115	C22:4 CE	0	metabolite	2.1801178455352783
+116	C22:5 CE	0	metabolite	1.734325885772705
+117	C22:6 CE	0	metabolite	2.1337900161743164
+118	C22:6 LPC	0	metabolite	3.2390220165252686
+119	C22:6 LPE	0	metabolite	-0.4884125590324402
+120	C24:0 Ceramide (d18:1)	0	metabolite	1.2917325496673584
+121	C24:0 SM	0	metabolite	1.8302552700042725
+122	C24:1 Ceramide (d18:1)	0	metabolite	1.1187058687210083
+123	C24:1 SM	0	metabolite	0.11013474315404892
+124	C3 carnitine	0	metabolite	1.122073769569397
+125	C3-DC-CH3 carnitine	0	metabolite	0.9437940120697021
+126	C30:0 DAG	0	metabolite	1.9400933980941772
+127	C30:0 PC	0	metabolite	1.9540772438049316
+128	C32:0 DAG	0	metabolite	1.1265895366668701
+129	C32:0 PC	0	metabolite	0.5601626634597778
+130	C32:0 PE	0	metabolite	2.649754524230957
+131	C32:1 DAG	0	metabolite	2.00490665435791
+132	C32:1 PC	0	metabolite	0.8189995288848877
+133	C32:2 DAG	0	metabolite	1.3822449445724487
+134	C34:0 DAG	0	metabolite	1.4433910846710205
+135	C34:0 PC	0	metabolite	1.1154354810714722
+136	C34:0 PE	0	metabolite	1.6317415237426758
+137	C34:1 DAG	0	metabolite	1.1925138235092163
+138	C34:1 PC	0	metabolite	-0.019924381747841835
+139	C34:1 PC plasmalogen	0	metabolite	1.6185338497161865
+140	C34:2 DAG	0	metabolite	1.7635279893875122
+141	C34:2 PC	0	metabolite	1.3711413145065308
+142	C34:2 PC plasmalogen	0	metabolite	1.6716868877410889
+143	C34:3 DAG	0	metabolite	0.4477281868457794
+144	C34:3 PC	0	metabolite	1.3087291717529297
+145	C34:4 PC plasmalogen	0	metabolite	1.9126389026641846
+146	C36:0 DAG	0	metabolite	1.1507976055145264
+147	C36:1 DAG	0	metabolite	1.4823392629623413
+148	C36:1 PC	0	metabolite	1.173362135887146
+149	C36:1 PC plasmalogen	0	metabolite	0.7841778993606567
+150	C36:2 DAG	0	metabolite	0.007727471180260181
+151	C36:2 PC	0	metabolite	1.3921805620193481
+152	C36:2 PC plasmalogen	0	metabolite	0.44360166788101196
+153	C36:3 DAG	0	metabolite	1.1612186431884766
+154	C36:3 PC	0	metabolite	1.192570686340332
+155	C36:4 DAG	0	metabolite	-0.9505001306533813
+156	C36:4 PC plasmalogen	0	metabolite	0.5603461861610413
+157	C36:4 PC-A	0	metabolite	1.4723788499832153
+158	C36:4 PC-B	0	metabolite	0.9781749248504639
+159	C36:5 PC plasmalogen	0	metabolite	1.0020524263381958
+160	C38:2 PC	0	metabolite	0.698798418045044
+161	C38:3 PC	0	metabolite	1.6763821840286255
+162	C38:4 PC	0	metabolite	1.8946573734283447
+163	C38:4 PC plasmalogen	0	metabolite	1.847350835800171
+164	C38:5 DAG	0	metabolite	0.4533817768096924
+165	C38:6 PC	0	metabolite	2.1013076305389404
+166	C4 carnitine	0	metabolite	-0.7836331725120544
+167	C42:0 TAG	0	metabolite	0.40837982296943665
+168	C44:0 TAG	0	metabolite	0.8679468631744385
+169	C44:1 TAG	0	metabolite	0.9894499182701111
+170	C44:2 TAG	0	metabolite	2.2265660762786865
+171	C45:0 TAG	0	metabolite	3.6476821899414062
+172	C46:0 TAG	0	metabolite	1.7640212774276733
+173	C46:1 TAG	0	metabolite	1.7062034606933594
+174	C46:2 TAG	0	metabolite	1.9293493032455444
+175	C46:3 TAG	0	metabolite	1.6872937679290771
+176	C48:0 TAG	0	metabolite	-0.20824700593948364
+177	C48:1 TAG	0	metabolite	1.9559376239776611
+178	C48:2 TAG	0	metabolite	1.0792969465255737
+179	C48:3 TAG	0	metabolite	1.6461082696914673
+180	C48:4 TAG	0	metabolite	3.3798699378967285
+181	C5 carnitine	0	metabolite	2.0480096340179443
+182	C50:0 TAG	0	metabolite	1.6277376413345337
+183	C50:1 TAG	0	metabolite	-0.09746633470058441
+184	C50:2 TAG	0	metabolite	0.763564944267273
+185	C50:3 TAG	0	metabolite	2.025261163711548
+186	C50:4 TAG	0	metabolite	1.8512812852859497
+187	C50:5 TAG	0	metabolite	2.197719097137451
+188	C51:0 TAG	0	metabolite	1.890305995941162
+189	C51:1 TAG	0	metabolite	1.1840507984161377
+190	C51:2 TAG	0	metabolite	2.7410781383514404
+191	C51:3 TAG	0	metabolite	1.9473625421524048
+192	C52:0 TAG	0	metabolite	1.1786136627197266
+193	C52:1 TAG	0	metabolite	0.5282851457595825
+194	C52:2 TAG	0	metabolite	-0.9782892465591431
+195	C52:3 TAG	0	metabolite	0.7667754888534546
+196	C52:4 TAG	0	metabolite	0.5226860642433167
+197	C52:5 TAG	0	metabolite	-0.01510130986571312
+198	C52:6 TAG	0	metabolite	0.4478415846824646
+199	C52:7 TAG	0	metabolite	2.136037588119507
+200	C53:3 TAG	0	metabolite	2.46211838722229
+201	C54:1 TAG	0	metabolite	2.0373339653015137
+202	C54:2 TAG	0	metabolite	0.5105423927307129
+203	C54:3 TAG	0	metabolite	-0.9641832113265991
+204	C54:4 TAG	0	metabolite	0.6789777278900146
+205	C54:5 TAG	0	metabolite	0.07302787899971008
+206	C54:6 TAG	0	metabolite	0.887829601764679
+207	C55:2 TAG	0	metabolite	2.594392776489258
+208	C55:3 TAG	0	metabolite	3.4770009517669678
+209	C56:1 TAG	0	metabolite	1.383536696434021
+210	C56:2 TAG	0	metabolite	1.2570922374725342
+211	C56:3 TAG	0	metabolite	1.1280218362808228
+212	C56:4 TAG	0	metabolite	1.0159010887145996
+213	C56:6 TAG	0	metabolite	1.6585949659347534
+214	C56:7 TAG	0	metabolite	2.319300413131714
+215	C58:10 TAG	0	metabolite	3.1547656059265137
+216	C8 carnitine	0	metabolite	1.978183388710022
+217	C9 carnitine	0	metabolite	1.2616474628448486
+218	N-acetyalanine	0	metabolite	1.6602810621261597
+219	N-acetylaspartic acid	0	metabolite	3.527193069458008
+220	N-acetylglutamate	0	metabolite	1.9876478910446167
+221	N-acetylglutamine	0	metabolite	-0.22271883487701416
+222	N-acetylhistamine	0	metabolite	-2.2243428230285645
+223	N-acetylhistidine	0	metabolite	1.4213132858276367
+224	N-acetylornithine	0	metabolite	2.4467694759368896
+225	N-acetylputrescine	0	metabolite	0.49520084261894226
+226	N-alpha-acetylarginine	0	metabolite	0.2669721245765686
+227	N-carbamoyl-beta-alanine	0	metabolite	2.136488437652588
+228	N-methylproline	0	metabolite	0.030834471806883812
+229	N1,N12-diacetylspermine	0	metabolite	-2.178969144821167
+230	N1-acetylspermidine	0	metabolite	0.7199816107749939
+231	N1-acetylspermine	0	metabolite	1.4812238216400146
+232	N1-methyl-2-pyridone-5-carboxamide	0	metabolite	1.2334314584732056
+233	N2,N2-dimethylguanosine	0	metabolite	2.136213779449463
+234	N6,N6,N6-trimethyllysine	0	metabolite	0.10298280417919159
+235	N6,N6-dimethyllysine	0	metabolite	0.6811630725860596
+236	N6-acetyllysine	0	metabolite	-0.32438668608665466
+237	NH4_C16:0 CE	0	metabolite	2.191805362701416
+238	NH4_C16:1 CE	0	metabolite	2.1887307167053223
+239	NH4_C16:1 MAG	0	metabolite	2.823343515396118
+240	NH4_C18:0 CE	0	metabolite	1.314993143081665
+241	NH4_C18:0 MAG	0	metabolite	0.5687993168830872
+242	NH4_C18:1 CE	0	metabolite	1.7810646295547485
+243	NH4_C18:2 CE	0	metabolite	0.5280866622924805
+244	NH4_C18:3 CE	0	metabolite	0.9264503121376038
+245	NH4_C20:3 CE	0	metabolite	2.3978304862976074
+246	NH4_C20:4 CE	0	metabolite	0.5848512649536133
+247	NH4_C20:5 CE	0	metabolite	2.1743907928466797
+248	NH4_C22:1 MAG	0	metabolite	3.0626561641693115
+249	NH4_C22:4 CE	0	metabolite	1.726790428161621
+250	NH4_C22:5 CE	0	metabolite	0.6022709012031555
+251	NH4_C22:6 CE	0	metabolite	1.658199429512024
+252	NH4_C32:1 DAG	0	metabolite	1.5841044187545776
+253	NH4_C32:2 DAG	0	metabolite	0.9291890263557434
+254	NH4_C34:1 DAG	0	metabolite	0.08802216500043869
+255	NH4_C34:2 DAG	0	metabolite	1.2836183309555054
+256	NH4_C34:3 DAG	0	metabolite	1.7827166318893433
+257	NH4_C36:0 DAG	0	metabolite	0.9163157343864441
+258	NH4_C36:1 DAG	0	metabolite	0.8559982776641846
+259	NH4_C36:2 DAG	0	metabolite	0.4371815323829651
+260	NH4_C36:3 DAG	0	metabolite	-0.37213951349258423
+261	NH4_C36:4 DAG	0	metabolite	0.9689176678657532
+262	NH4_C38:4 DAG	0	metabolite	2.720966339111328
+263	NH4_C38:5 DAG	0	metabolite	2.494870185852051
+264	NH4_C42:0 TAG	0	metabolite	0.5145639181137085
+265	NH4_C44:0 TAG	0	metabolite	2.3651416301727295
+266	NH4_C44:1 TAG	0	metabolite	2.327294111251831
+267	NH4_C44:2 TAG	0	metabolite	2.424192190170288
+268	NH4_C46:0 TAG	0	metabolite	1.3496177196502686
+269	NH4_C46:1 TAG	0	metabolite	2.1211774349212646
+270	NH4_C46:2 TAG	0	metabolite	2.9250309467315674
+271	NH4_C46:3 TAG	0	metabolite	2.920492649078369
+272	NH4_C48:0 TAG	0	metabolite	1.3990964889526367
+273	NH4_C48:1 TAG	0	metabolite	0.0931716337800026
+274	NH4_C48:2 TAG	0	metabolite	2.16860294342041
+275	NH4_C48:3 TAG	0	metabolite	1.646688461303711
+276	NH4_C48:4 TAG	0	metabolite	2.6572999954223633
+277	NH4_C49:1 TAG	0	metabolite	2.8929600715637207
+278	NH4_C50:0 TAG	0	metabolite	1.5195214748382568
+279	NH4_C50:1 TAG	0	metabolite	1.659692645072937
+280	NH4_C50:2 TAG	0	metabolite	0.2536088526248932
+281	NH4_C50:3 TAG	0	metabolite	1.1971427202224731
+282	NH4_C50:4 TAG	0	metabolite	1.8668347597122192
+283	NH4_C50:5 TAG	0	metabolite	2.0305511951446533
+284	NH4_C51:0 TAG	0	metabolite	2.150617837905884
+285	NH4_C51:1 TAG	0	metabolite	1.729554295539856
+286	NH4_C51:2 TAG	0	metabolite	1.1092424392700195
+287	NH4_C51:3 TAG	0	metabolite	2.6060373783111572
+288	NH4_C52:0 TAG	0	metabolite	0.8608782887458801
+289	NH4_C52:1 TAG	0	metabolite	0.6111905574798584
+290	NH4_C52:2 TAG	0	metabolite	0.5728864669799805
+291	NH4_C52:3 TAG	0	metabolite	0.20772577822208405
+292	NH4_C52:4 TAG	0	metabolite	0.12236572802066803
+293	NH4_C52:5 TAG	0	metabolite	0.8640031218528748
+294	NH4_C52:6 TAG	0	metabolite	0.8077542185783386
+295	NH4_C53:2 TAG	0	metabolite	2.2258975505828857
+296	NH4_C53:3 TAG	0	metabolite	1.0981576442718506
+297	NH4_C54:2 TAG	0	metabolite	0.7413236498832703
+298	NH4_C54:3 TAG	0	metabolite	0.13597625494003296
+299	NH4_C54:4 TAG	0	metabolite	0.7809121012687683
+300	NH4_C54:5 TAG	0	metabolite	0.15800508856773376
+301	NH4_C54:6 TAG	0	metabolite	-0.25902557373046875
+302	NH4_C56:1 TAG	0	metabolite	1.2143436670303345
+303	NH4_C56:2 TAG	0	metabolite	0.12043555825948715
+304	NH4_C56:3 TAG	0	metabolite	1.6565347909927368
+305	NH4_C56:4 TAG	0	metabolite	0.3309175670146942
+306	NH4_C56:6 TAG	0	metabolite	1.163216471672058
+307	NMMA	0	metabolite	1.7367992401123047
+308	S-adenosylmethionine	0	metabolite	1.933038353919983
+309	S-methylcysteine-S-oxide	0	metabolite	3.485334873199463
+310	UMP	0	metabolite	1.7592211961746216
+311	acesulfame	0	metabolite	2.040501832962036
+312	acetaminophen	0	metabolite	1.3632458448410034
+313	acetyl-galactosamine	0	metabolite	3.184180498123169
+314	acetylalanine	0	metabolite	2.054863691329956
+315	acetylcholine	0	metabolite	2.0042827129364014
+316	acetytyrosine	0	metabolite	1.9489169120788574
+317	adenine	0	metabolite	0.2351074069738388
+318	adenosine	0	metabolite	-0.7587181329727173
+319	adipate	0	metabolite	1.5521032810211182
+320	adrenate	0	metabolite	0.2509060800075531
+321	agmatine	0	metabolite	-0.15511058270931244
+322	alanine	0	metabolite	0.44164565205574036
+323	alanylalanine	0	metabolite	0.9728653430938721
+324	alloisoleucine	0	metabolite	2.4304873943328857
+325	alpha-CEHC	0	metabolite	2.608151912689209
+326	alpha-glycerophosphate	0	metabolite	1.226422905921936
+327	alpha-glycerophosphocholine	0	metabolite	-0.11567428708076477
+328	alpha-hydroxymetoprolol	0	metabolite	0.23147337138652802
+329	alpha-ketoglutarate	0	metabolite	0.06984387338161469
+330	alpha-ketoisovalerate	0	metabolite	2.2287070751190186
+331	alpha-linolenate	0	metabolite	0.009279536083340645
+332	alpha-muricholate	0	metabolite	0.3004100024700165
+333	aminoisobutyric acid/GABA	0	metabolite	-1.3826626539230347
+334	anserine	0	metabolite	1.285798192024231
+335	arachidate	0	metabolite	2.254838705062866
+336	arachidonate	0	metabolite	0.41770079731941223
+337	arginine	0	metabolite	-0.48552456498146057
+338	ascorbate	0	metabolite	0.76563960313797
+339	asparagine	0	metabolite	1.3451480865478516
+340	aspartate	0	metabolite	-0.6327177286148071
+341	atenolol	0	metabolite	1.2833958864212036
+342	azelate	0	metabolite	1.1703863143920898
+343	beta-alanine	0	metabolite	0.9920626878738403
+344	beta-guanidinopropionic acid	0	metabolite	0.2332746386528015
+345	beta-sitosterol	0	metabolite	2.039675235748291
+346	betaine	0	metabolite	1.3456918001174927
+347	bilirubin	0	metabolite	0.672613263130188
+348	biliverdin	0	metabolite	0.9085375070571899
+349	biotin	0	metabolite	-0.8365486264228821
+350	butyrate	0	metabolite	0.6981808543205261
+351	butyrobetaine	0	metabolite	-0.2151954621076584
+352	cadaverine	0	metabolite	-1.6285295486450195
+353	caffeine	0	metabolite	0.6413337588310242
+354	caprate	0	metabolite	0.9346749186515808
+355	caproate	0	metabolite	0.6435790657997131
+356	caprylate	0	metabolite	1.4219586849212646
+357	carboxyibuprofen	0	metabolite	2.028021812438965
+358	carnitine	0	metabolite	-0.12065392732620239
+359	carnosol	0	metabolite	1.2753193378448486
+360	carnosol_isomer	0	metabolite	2.186082124710083
+361	cetrizine	0	metabolite	2.7431046962738037
+362	chenodeoxycholate	0	metabolite	1.0545003414154053
+363	cholate	0	metabolite	-0.4447971284389496
+364	cholesterol	0	metabolite	-0.3726626932621002
+365	choline	0	metabolite	0.7883044481277466
+366	cinnamoylglycine	0	metabolite	0.4776991307735443
+367	citrate	0	metabolite	2.164821147918701
+368	citrulline	0	metabolite	-0.9123983979225159
+369	corticosterone	0	metabolite	2.141233205795288
+370	cortisol	0	metabolite	0.5401697754859924
+371	cotinine	0	metabolite	3.686020612716675
+372	creatine	0	metabolite	0.4131360650062561
+373	creatinine	0	metabolite	1.267000675201416
+374	crustecdysone	0	metabolite	2.032672882080078
+375	cystine	0	metabolite	3.2963268756866455
+376	cytidine	0	metabolite	0.056668832898139954
+377	cytosine	0	metabolite	1.5021677017211914
+378	dCMP	0	metabolite	2.9617300033569336
+379	dTMP	0	metabolite	1.8067070245742798
+380	deoxycholate	0	metabolite	0.08397344499826431
+381	diacetylspermine	0	metabolite	1.198100209236145
+382	diaminopimelate	0	metabolite	1.1015571355819702
+383	dihydroorotate	0	metabolite	2.260244369506836
+384	dimethylglycine	0	metabolite	2.276911735534668
+385	docosahexaenoate	0	metabolite	-0.3300374746322632
+386	docosapentaenoate	0	metabolite	0.6047149300575256
+387	dodecanedioate	0	metabolite	0.5801724195480347
+388	dodecanoate	0	metabolite	1.642761468887329
+389	ectoine	0	metabolite	1.7752840518951416
+390	eicosadienoate	0	metabolite	0.5418035984039307
+391	eicosanedioate	0	metabolite	1.6421823501586914
+392	eicosapentaenoate	0	metabolite	-0.35124194622039795
+393	eicosatrienoate	0	metabolite	-0.770177960395813
+394	eicosenoate	0	metabolite	1.321480393409729
+395	epiandrosterone	0	metabolite	1.4505869150161743
+396	erythronate	0	metabolite	0.5316185355186462
+397	ethyl glucuronide	0	metabolite	1.56110680103302
+398	fructose/glucose/galactose	0	metabolite	1.869341492652893
+399	fucose	0	metabolite	2.0878067016601562
+400	fumarate/maleate	0	metabolite	1.4162827730178833
+401	furosemide	0	metabolite	1.9090498685836792
+402	gabapentin	0	metabolite	0.7936513423919678
+403	gemfibrozil	0	metabolite	1.3236641883850098
+404	gentisate	0	metabolite	0.8411575555801392
+405	glutamate	0	metabolite	0.72825688123703
+406	glutamine	0	metabolite	1.7311853170394897
+407	glycerate	0	metabolite	1.6484947204589844
+408	glycine	0	metabolite	1.237352728843689
+409	glycochenodeoxycholate	0	metabolite	1.0879886150360107
+410	glycocholate	0	metabolite	0.18999186158180237
+411	glycodeoxycholate	0	metabolite	1.2323145866394043
+412	glycolithocholate	0	metabolite	0.6250016093254089
+413	glycoursodeoxycholate	0	metabolite	1.6767498254776
+414	guanidoacetic acid	0	metabolite	0.9864965081214905
+415	guanine	0	metabolite	2.001986265182495
+416	guanosine	0	metabolite	2.9256510734558105
+417	heptadecanoate	0	metabolite	1.2277798652648926
+418	heptanoate	0	metabolite	2.8709638118743896
+419	hexadecanedioate	0	metabolite	3.270260810852051
+420	hippurate	0	metabolite	3.58563494682312
+421	histamine	0	metabolite	0.08432973176240921
+422	histidine	0	metabolite	0.4529905915260315
+423	histidinol	0	metabolite	-0.22354863584041595
+424	homoarginine	0	metabolite	0.04388957470655441
+425	homocitrulline	0	metabolite	2.2964000701904297
+426	homovanillate	0	metabolite	2.36210298538208
+427	hydrochlorothiazide	0	metabolite	1.9053705930709839
+428	hydrocinnamate	0	metabolite	1.314557671546936
+429	hydroxycotinine	0	metabolite	2.094813823699951
+430	hydroxymyristate	0	metabolite	2.4709701538085938
+431	hydroxyproline	0	metabolite	1.6612282991409302
+432	hyodeoxycholate/ursodeoxycholate	0	metabolite	0.5351527333259583
+433	hypoxanthine	0	metabolite	-0.6317899227142334
+434	imidazole propionate	0	metabolite	0.1646566241979599
+435	imidazoleacetic acid	0	metabolite	-0.6579810380935669
+436	imidazolelactate	0	metabolite	1.0753229856491089
+437	indole-3-propionate	0	metabolite	1.97495698928833
+438	indoleacetate	0	metabolite	2.716862678527832
+439	indoxyl sulfate	0	metabolite	0.5438307523727417
+440	inosine	0	metabolite	1.8751479387283325
+441	isoleucine	0	metabolite	-0.29402223229408264
+442	ketodeoxycholate	0	metabolite	0.3682665526866913
+443	kynurenic acid	0	metabolite	1.5572905540466309
+444	lactate	0	metabolite	0.6251986622810364
+445	lactose	0	metabolite	0.5479835867881775
+446	leucine	0	metabolite	-1.1621652841567993
+447	linoleate	0	metabolite	-0.2900163233280182
+448	linoleoyl ethanolamide	0	metabolite	1.124262809753418
+449	linoleoylethanolamide	0	metabolite	0.7418243885040283
+450	lithocholate	0	metabolite	-1.083507776260376
+451	lysine	0	metabolite	0.43231651186943054
+452	malate	0	metabolite	2.657395124435425
+453	malonate	0	metabolite	3.129591941833496
+454	mandelate	0	metabolite	1.8678336143493652
+455	masilinate	0	metabolite	1.0912092924118042
+456	metformin	0	metabolite	-0.039436206221580505
+457	methionine	0	metabolite	1.0479083061218262
+458	methionine sulfoxide	0	metabolite	1.6694858074188232
+459	methylimidazole acetic acid	0	metabolite	-1.2485475540161133
+460	metronidazole	0	metabolite	1.2738417387008667
+461	myristate	0	metabolite	0.5989792943000793
+462	myristoleate	0	metabolite	2.767341136932373
+463	nervonic acid	0	metabolite	0.7323325276374817
+464	niacinamide	0	metabolite	1.330666422843933
+465	nicotinate	0	metabolite	1.679627776145935
+466	nicotinuric acid	0	metabolite	0.18516619503498077
+467	nonadecanoate	0	metabolite	1.8855128288269043
+468	norepinephrine	0	metabolite	1.7773571014404297
+469	oleanate	0	metabolite	-0.8760918378829956
+470	oleate	0	metabolite	-0.15473221242427826
+471	olmesartan	0	metabolite	2.4695961475372314
+472	ornithine	0	metabolite	2.2003209590911865
+473	orotate	0	metabolite	1.7415632009506226
+474	oxalate	0	metabolite	0.9122354388237
+475	oxymetazoline	0	metabolite	2.45479416847229
+476	oxypurinol	0	metabolite	1.378077507019043
+477	p-hydroxyphenylacetate	0	metabolite	1.7061632871627808
+478	palmitate	0	metabolite	0.0934036523103714
+479	palmithoylethanolamide	0	metabolite	2.3369240760803223
+480	palmitoleate	0	metabolite	-0.21777264773845673
+481	palmitoylethanolamide	0	metabolite	1.7301875352859497
+482	pantothenate	0	metabolite	0.02338089793920517
+483	pentadecanoate	0	metabolite	-0.14996649324893951
+484	pentose monophosphate	0	metabolite	0.8545478582382202
+485	phenylacetate	0	metabolite	2.3008499145507812
+486	phenylacetylglutamine	0	metabolite	2.6238744258880615
+487	phenylalanine	0	metabolite	-1.9570637941360474
+488	phenyllactate	0	metabolite	0.8607219457626343
+489	phytanate	0	metabolite	1.9651126861572266
+490	phytosphingosine	0	metabolite	-1.4051165580749512
+491	pipecolic acid	0	metabolite	0.3753553330898285
+492	piperine	0	metabolite	0.8867692947387695
+493	porphobilinogen	0	metabolite	1.32896089553833
+494	proline	0	metabolite	0.3289334177970886
+495	proline betaine	0	metabolite	0.3088856339454651
+496	propionate	0	metabolite	2.0191144943237305
+497	pseudouridine	0	metabolite	1.645846962928772
+498	pterin	0	metabolite	0.2106321007013321
+499	putrescine	0	metabolite	2.1222991943359375
+500	pyridoxine	0	metabolite	-1.5890374183654785
+501	pyrocatechol	0	metabolite	1.029539704322815
+502	quinine	0	metabolite	0.09819014370441437
+503	riboflavin	0	metabolite	1.9087659120559692
+504	ribothymidine	0	metabolite	2.498800039291382
+505	saccharin	0	metabolite	1.7813429832458496
+506	salicylate	0	metabolite	1.7463347911834717
+507	sebacate	0	metabolite	1.6097497940063477
+508	serine	0	metabolite	1.1387970447540283
+509	serotonin	0	metabolite	1.2716686725616455
+510	shikimate	0	metabolite	1.5493136644363403
+511	sorbitol	0	metabolite	-0.05915777385234833
+512	spermidine	0	metabolite	1.0646471977233887
+513	sphinganine	0	metabolite	0.6700921058654785
+514	sphingosine	0	metabolite	1.8497129678726196
+515	sphingosine-isomer1	0	metabolite	0.7698572278022766
+516	sphingosine-isomer2	0	metabolite	-0.2771240472793579
+517	sphingosine-isomer3	0	metabolite	0.11802507936954498
+518	stearate	0	metabolite	0.009311421774327755
+519	suberate	0	metabolite	2.0791513919830322
+520	succinate	0	metabolite	0.9666623473167419
+521	sulfapyridine	0	metabolite	-0.027082150802016258
+522	tartarate	0	metabolite	0.7963874340057373
+523	taurine	0	metabolite	0.8442014455795288
+524	tauro-alpha-muricholate/tauro-beta-muricholate	0	metabolite	0.4252035617828369
+525	taurochenodeoxycholate	0	metabolite	1.2217622995376587
+526	taurocholate	0	metabolite	-0.5027996897697449
+527	taurodeoxycholate	0	metabolite	0.9603388905525208
+528	taurohyodeoxycholate/tauroursodeoxycholate	0	metabolite	0.9628041386604309
+529	taurolithocholate	0	metabolite	0.4429047703742981
+530	tetradecanedioate	0	metabolite	1.6991925239562988
+531	tetrahydro-1-methyl-beta-carboline-3-carboxylate	0	metabolite	2.614969491958618
+532	theophylline	0	metabolite	1.7571219205856323
+533	threonine	0	metabolite	1.7795594930648804
+534	threosphingosine	0	metabolite	-1.027496099472046
+535	thymine	0	metabolite	0.018257640302181244
+536	trigonelline	0	metabolite	1.1827771663665771
+537	trimethylamine-N-oxide	0	metabolite	1.6412732601165771
+538	trimethylbenzene	0	metabolite	2.101764440536499
+539	tryptophan	0	metabolite	0.04147881641983986
+540	tyrosine	0	metabolite	-1.6075047254562378
+541	undecanedionate	0	metabolite	2.154592752456665
+542	uracil	0	metabolite	0.270525723695755
+543	urate	0	metabolite	-0.6565943360328674
+544	uridine	0	metabolite	1.0747023820877075
+545	urobilin	0	metabolite	-2.223449230194092
+546	valerate/isovalerate	0	metabolite	1.0673959255218506
+547	valine	0	metabolite	-0.8813575506210327
+548	xanthine	0	metabolite	0.33589205145835876
+549	xanthurenate	0	metabolite	1.008184552192688
+550	xylose	0	metabolite	0.9593522548675537
+551	1-3-7-trimethylurate	1	metabolite	0.0
+552	1-methylguanine	1	metabolite	1.3035882711410522
+553	1-methylguanosine	1	metabolite	1.2361434698104858
+554	1-methylhistamine	1	metabolite	0.6290704607963562
+555	1-methylnicotinamide	1	metabolite	1.0613800287246704
+556	1.2.3.4-tetrahydro-beta-carboline-1.3-dicarboxylate	1	metabolite	0.8929848670959473
+557	10-heptadecenoate	1	metabolite	0.7183371782302856
+558	10-nonadecenoate	1	metabolite	0.43271303176879883
+559	12.13-diHOME	1	metabolite	1.1568093299865723
+560	13-cis-retinoic acid	1	metabolite	2.3112173080444336
+561	13-docosenoate	1	metabolite	0.05687274783849716
+562	17-methylstearate	1	metabolite	1.1188137531280518
+563	2'-O-methyladenosine	1	metabolite	1.1838124990463257
+564	2-aminoadipate	1	metabolite	0.21983128786087036
+565	2-aminobutyrate	1	metabolite	1.230819582939148
+566	2-aminoheptanoic acid	1	metabolite	1.2279706001281738
+567	2-deoxyadenosine	1	metabolite	-1.7833576202392578
+568	2-deoxycytidine	1	metabolite	1.6804074048995972
+569	2-hydroxy-3-methylbutyrate	1	metabolite	1.229259967803955
+570	2-hydroxy-3-methylpentanoate	1	metabolite	1.0313278436660767
+571	2-hydroxyglutarate	1	metabolite	0.7542237043380737
+572	2-hydroxyhexadecanoate	1	metabolite	0.6575009822845459
+573	2-hydroxyibuprofen	1	metabolite	1.474665641784668
+574	2-hydroxyoctanoate	1	metabolite	1.7197177410125732
+575	21-deoxycortisol	1	metabolite	0.8934032917022705
+576	3'-O-methyladenosine	1	metabolite	0.6612412929534912
+577	3-hydroxydecanoate	1	metabolite	0.6021068096160889
+578	3-hydroxymethylglutarate	1	metabolite	0.06821368634700775
+579	3-hydroxyoctanoate	1	metabolite	2.0256905555725098
+580	3-methyladipate/pimelate	1	metabolite	0.5034424662590027
+581	3-methylglutaconate	1	metabolite	1.1804922819137573
+582	3-methylhistidine	1	metabolite	0.2140399068593979
+583	3-methylxanthine	1	metabolite	-0.5251622796058655
+584	4-aminophenol	1	metabolite	1.09671151638031
+585	4-guanidinobutanoic acid	1	metabolite	0.6412823796272278
+586	4-hydroxy-3-methylacetophenone	1	metabolite	0.8687454462051392
+587	4-hydroxybenzaldehyde	1	metabolite	0.1001708060503006
+588	4-hydroxybenzeneacetonitrile	1	metabolite	1.4415099620819092
+589	4-hydroxystyrene	1	metabolite	0.1997450441122055
+590	4-methylcatechol	1	metabolite	0.594944179058075
+591	4-nitrophenol	1	metabolite	0.1308421492576599
+592	4-pyridoxate	1	metabolite	0.5891852378845215
+593	5-acetylamino-6-amino-3-methyluracil	1	metabolite	0.39671143889427185
+594	5-aminolevulinic acid	1	metabolite	0.6905003786087036
+595	5-dodecenoate	1	metabolite	1.8306121826171875
+596	5-hydroxytryptophan	1	metabolite	1.401263952255249
+597	5alpha-cholestan-3beta-ol	1	metabolite	1.3988584280014038
+598	7-methylguanine	1	metabolite	0.38600412011146545
+599	7-methylxanthine	1	metabolite	-0.4048910439014435
+600	8-hydroxy-deoxyguanosine	1	metabolite	0.048479966819286346
+601	9.10-diHOME	1	metabolite	0.38156452775001526
+602	ADMA/SDMA	1	metabolite	0.32727813720703125
+603	C10 carnitine	1	metabolite	1.667237639427185
+604	C10:2 carnitine	1	metabolite	1.3029255867004395
+605	C12 carnitine	1	metabolite	0.7706811428070068
+606	C12:1 carnitine	1	metabolite	1.2924542427062988
+607	C14 carnitine	1	metabolite	-0.21373720467090607
+608	C14:0 CE	1	metabolite	1.2922598123550415
+609	C14:0 LPC	1	metabolite	0.4477992057800293
+610	C14:0 SM	1	metabolite	0.7966681718826294
+611	C14:1 carnitine	1	metabolite	0.9922958016395569
+612	C14:2 carnitine	1	metabolite	0.8978017568588257
+613	C16 carnitine	1	metabolite	0.29932883381843567
+614	C16-OH carnitine	1	metabolite	0.5290175676345825
+615	C16:0 CE	1	metabolite	0.029319873079657555
+616	C16:0 Ceramide (d18:1)	1	metabolite	1.0057393312454224
+617	C16:0 LPC	1	metabolite	-2.247643232345581
+618	C16:0 LPE	1	metabolite	0.16559912264347076
+619	C16:0 SM	1	metabolite	-0.7760698199272156
+620	C16:1 CE	1	metabolite	0.717868447303772
+621	C16:1 LPC	1	metabolite	0.16805142164230347
+622	C16:1 LPC plasmalogen	1	metabolite	0.9635134339332581
+623	C16:1 LPE	1	metabolite	1.4436596632003784
+624	C16:1 MAG	1	metabolite	0.7505821585655212
+625	C16:1 SM	1	metabolite	0.377407968044281
+626	C18 carnitine	1	metabolite	0.13392752408981323
+627	C18:0 CE	1	metabolite	0.19584129750728607
+628	C18:0 LPC	1	metabolite	1.0142714977264404
+629	C18:0 LPE	1	metabolite	0.7544427514076233
+630	C18:0 LPE-A	1	metabolite	0.330981969833374
+631	C18:0 LPE-B	1	metabolite	0.9345666766166687
+632	C18:0 MAG	1	metabolite	0.35208678245544434
+633	C18:0 SM	1	metabolite	-0.21689894795417786
+634	C18:1 CE	1	metabolite	0.6632441282272339
+635	C18:1 LPC	1	metabolite	0.6450174450874329
+636	C18:1 LPC plasmalogen	1	metabolite	0.6844222545623779
+637	C18:1 LPE	1	metabolite	-0.2817521393299103
+638	C18:1 SM	1	metabolite	0.6923884153366089
+639	C18:1 carnitine	1	metabolite	1.3857097625732422
+640	C18:1-OH carnitine	1	metabolite	0.968185544013977
+641	C18:2 CE	1	metabolite	-0.8070234060287476
+642	C18:2 LPC	1	metabolite	-0.9136737585067749
+643	C18:2 LPE	1	metabolite	-0.17414337396621704
+644	C18:2 carnitine	1	metabolite	1.0466716289520264
+645	C18:3 CE	1	metabolite	0.906001091003418
+646	C18:3 LPC	1	metabolite	0.2633521556854248
+647	C2 Ceramide (d18:1)	1	metabolite	1.511734962463379
+648	C2 carnitine	1	metabolite	0.6363322138786316
+649	C20 carnitine	1	metabolite	0.5306121110916138
+650	C20:0 LPE	1	metabolite	0.7250459790229797
+651	C20:0 SM	1	metabolite	1.50558340549469
+652	C20:1 LPC	1	metabolite	0.8199411034584045
+653	C20:3 CE	1	metabolite	-0.09907177835702896
+654	C20:3 LPC	1	metabolite	0.49715501070022583
+655	C20:4 CE	1	metabolite	0.20388776063919067
+656	C20:4 LPC	1	metabolite	0.5074622631072998
+657	C20:4 LPE	1	metabolite	2.0040030479431152
+658	C20:4 carnitine	1	metabolite	0.3441881835460663
+659	C20:5 CE	1	metabolite	-0.147396057844162
+660	C20:5 LPC	1	metabolite	0.16224028170108795
+661	C22:0 Ceramide (d18:1)	1	metabolite	0.2068914771080017
+662	C22:0 LPE	1	metabolite	1.8970509767532349
+663	C22:0 SM	1	metabolite	1.306447148323059
+664	C22:1 MAG	1	metabolite	1.503433108329773
+665	C22:1 SM	1	metabolite	2.4522740840911865
+666	C22:4 CE	1	metabolite	1.530552864074707
+667	C22:5 CE	1	metabolite	0.8513216376304626
+668	C22:6 CE	1	metabolite	1.2270257472991943
+669	C22:6 LPC	1	metabolite	1.411973237991333
+670	C22:6 LPE	1	metabolite	0.19411881268024445
+671	C24:0 Ceramide (d18:1)	1	metabolite	1.7340552806854248
+672	C24:0 SM	1	metabolite	0.8903734683990479
+673	C24:1 Ceramide (d18:1)	1	metabolite	0.29847708344459534
+674	C24:1 SM	1	metabolite	0.5598283410072327
+675	C3 carnitine	1	metabolite	0.9246324300765991
+676	C3-DC-CH3 carnitine	1	metabolite	1.4629316329956055
+677	C30:0 DAG	1	metabolite	0.2286117821931839
+678	C30:0 PC	1	metabolite	1.1289838552474976
+679	C32:0 DAG	1	metabolite	0.7592476010322571
+680	C32:0 PC	1	metabolite	0.8169643878936768
+681	C32:0 PE	1	metabolite	1.595942735671997
+682	C32:1 DAG	1	metabolite	0.7868971228599548
+683	C32:1 PC	1	metabolite	2.083559036254883
+684	C32:2 DAG	1	metabolite	1.1357783079147339
+685	C34:0 DAG	1	metabolite	0.7375630736351013
+686	C34:0 PC	1	metabolite	0.19033652544021606
+687	C34:0 PE	1	metabolite	2.220505952835083
+688	C34:1 DAG	1	metabolite	0.15743760764598846
+689	C34:1 PC	1	metabolite	0.8061749935150146
+690	C34:1 PC plasmalogen	1	metabolite	-0.6850906014442444
+691	C34:2 DAG	1	metabolite	-1.7573186159133911
+692	C34:2 PC	1	metabolite	1.1266282796859741
+693	C34:2 PC plasmalogen	1	metabolite	1.1317626237869263
+694	C34:3 DAG	1	metabolite	0.7757214307785034
+695	C34:3 PC	1	metabolite	1.8583821058273315
+696	C34:4 PC plasmalogen	1	metabolite	1.5059220790863037
+697	C36:0 DAG	1	metabolite	-0.5362148284912109
+698	C36:1 DAG	1	metabolite	0.45598042011260986
+699	C36:1 PC	1	metabolite	1.2483890056610107
+700	C36:1 PC plasmalogen	1	metabolite	0.20938479900360107
+701	C36:2 DAG	1	metabolite	0.8529413342475891
+702	C36:2 PC	1	metabolite	1.0958588123321533
+703	C36:2 PC plasmalogen	1	metabolite	0.9392370581626892
+704	C36:3 DAG	1	metabolite	-0.6118028163909912
+705	C36:3 PC	1	metabolite	0.6566751003265381
+706	C36:4 DAG	1	metabolite	-0.8326913714408875
+707	C36:4 PC plasmalogen	1	metabolite	1.6067885160446167
+708	C36:4 PC-A	1	metabolite	1.288470983505249
+709	C36:4 PC-B	1	metabolite	2.047849416732788
+710	C36:5 PC plasmalogen	1	metabolite	1.8102506399154663
+711	C38:2 PC	1	metabolite	2.804147481918335
+712	C38:3 PC	1	metabolite	1.0488803386688232
+713	C38:4 PC	1	metabolite	0.6750829815864563
+714	C38:4 PC plasmalogen	1	metabolite	1.27048659324646
+715	C38:5 DAG	1	metabolite	0.1909036785364151
+716	C38:6 PC	1	metabolite	1.6809099912643433
+717	C4 carnitine	1	metabolite	-0.46144530177116394
+718	C42:0 TAG	1	metabolite	1.3321845531463623
+719	C44:0 TAG	1	metabolite	0.910031795501709
+720	C44:1 TAG	1	metabolite	1.418125867843628
+721	C44:2 TAG	1	metabolite	1.6317763328552246
+722	C45:0 TAG	1	metabolite	1.186991572380066
+723	C46:0 TAG	1	metabolite	1.1643754243850708
+724	C46:1 TAG	1	metabolite	0.7848590612411499
+725	C46:2 TAG	1	metabolite	0.6749441623687744
+726	C46:3 TAG	1	metabolite	2.0665664672851562
+727	C48:0 TAG	1	metabolite	1.304934024810791
+728	C48:1 TAG	1	metabolite	1.6579302549362183
+729	C48:2 TAG	1	metabolite	1.5818045139312744
+730	C48:3 TAG	1	metabolite	-0.2128996104001999
+731	C48:4 TAG	1	metabolite	0.8929186463356018
+732	C5 carnitine	1	metabolite	1.465230941772461
+733	C50:0 TAG	1	metabolite	-0.570560872554779
+734	C50:1 TAG	1	metabolite	0.4647914171218872
+735	C50:2 TAG	1	metabolite	0.2866954207420349
+736	C50:3 TAG	1	metabolite	-0.7299329042434692
+737	C50:4 TAG	1	metabolite	0.6538190245628357
+738	C50:5 TAG	1	metabolite	1.0248360633850098
+739	C51:0 TAG	1	metabolite	2.4483160972595215
+740	C51:1 TAG	1	metabolite	2.484480619430542
+741	C51:2 TAG	1	metabolite	1.5557740926742554
+742	C51:3 TAG	1	metabolite	1.0213263034820557
+743	C52:0 TAG	1	metabolite	0.7229515910148621
+744	C52:1 TAG	1	metabolite	0.7845436930656433
+745	C52:2 TAG	1	metabolite	0.3769162595272064
+746	C52:3 TAG	1	metabolite	1.3816636800765991
+747	C52:4 TAG	1	metabolite	0.38800472021102905
+748	C52:5 TAG	1	metabolite	0.2772146761417389
+749	C52:6 TAG	1	metabolite	0.7845315337181091
+750	C52:7 TAG	1	metabolite	1.474078893661499
+751	C53:3 TAG	1	metabolite	0.4309210777282715
+752	C54:1 TAG	1	metabolite	0.12216716259717941
+753	C54:2 TAG	1	metabolite	0.2514913082122803
+754	C54:3 TAG	1	metabolite	-0.29336419701576233
+755	C54:4 TAG	1	metabolite	0.46540969610214233
+756	C54:5 TAG	1	metabolite	-0.9672521948814392
+757	C54:6 TAG	1	metabolite	-1.3626536130905151
+758	C55:2 TAG	1	metabolite	2.0474166870117188
+759	C55:3 TAG	1	metabolite	1.2393405437469482
+760	C56:1 TAG	1	metabolite	0.7647047638893127
+761	C56:2 TAG	1	metabolite	0.547093391418457
+762	C56:3 TAG	1	metabolite	0.39014261960983276
+763	C56:4 TAG	1	metabolite	0.4096214771270752
+764	C56:6 TAG	1	metabolite	1.4030895233154297
+765	C56:7 TAG	1	metabolite	1.0320217609405518
+766	C58:10 TAG	1	metabolite	0.07710477709770203
+767	C8 carnitine	1	metabolite	0.010662520304322243
+768	C9 carnitine	1	metabolite	1.522579550743103
+769	N-acetyalanine	1	metabolite	2.481994390487671
+770	N-acetylaspartic acid	1	metabolite	1.4231950044631958
+771	N-acetylglutamate	1	metabolite	0.5652872920036316
+772	N-acetylglutamine	1	metabolite	1.061983346939087
+773	N-acetylhistamine	1	metabolite	-0.2879660725593567
+774	N-acetylhistidine	1	metabolite	0.8583310842514038
+775	N-acetylornithine	1	metabolite	1.531464695930481
+776	N-acetylputrescine	1	metabolite	-0.977056086063385
+777	N-alpha-acetylarginine	1	metabolite	0.5054922699928284
+778	N-carbamoyl-beta-alanine	1	metabolite	1.898398518562317
+779	N-methylproline	1	metabolite	0.06126255914568901
+780	N1,N12-diacetylspermine	1	metabolite	0.24416013062000275
+781	N1-acetylspermidine	1	metabolite	0.6388463973999023
+782	N1-acetylspermine	1	metabolite	-0.362336128950119
+783	N1-methyl-2-pyridone-5-carboxamide	1	metabolite	0.8798763751983643
+784	N2,N2-dimethylguanosine	1	metabolite	1.4438115358352661
+785	N6,N6,N6-trimethyllysine	1	metabolite	0.867727518081665
+786	N6,N6-dimethyllysine	1	metabolite	0.778723955154419
+787	N6-acetyllysine	1	metabolite	-0.04502921551465988
+788	NH4_C16:0 CE	1	metabolite	2.7639718055725098
+789	NH4_C16:1 CE	1	metabolite	1.0522911548614502
+790	NH4_C16:1 MAG	1	metabolite	2.0025031566619873
+791	NH4_C18:0 CE	1	metabolite	1.224267840385437
+792	NH4_C18:0 MAG	1	metabolite	0.8525305986404419
+793	NH4_C18:1 CE	1	metabolite	0.350078821182251
+794	NH4_C18:2 CE	1	metabolite	0.7577072381973267
+795	NH4_C18:3 CE	1	metabolite	0.8465234041213989
+796	NH4_C20:3 CE	1	metabolite	0.8612414002418518
+797	NH4_C20:4 CE	1	metabolite	0.7362741231918335
+798	NH4_C20:5 CE	1	metabolite	1.1102123260498047
+799	NH4_C22:1 MAG	1	metabolite	1.667327880859375
+800	NH4_C22:4 CE	1	metabolite	1.9019577503204346
+801	NH4_C22:5 CE	1	metabolite	2.4672513008117676
+802	NH4_C22:6 CE	1	metabolite	0.7379307150840759
+803	NH4_C32:1 DAG	1	metabolite	0.7563397288322449
+804	NH4_C32:2 DAG	1	metabolite	1.7746210098266602
+805	NH4_C34:1 DAG	1	metabolite	1.2243889570236206
+806	NH4_C34:2 DAG	1	metabolite	0.03625520318746567
+807	NH4_C34:3 DAG	1	metabolite	0.24707356095314026
+808	NH4_C36:0 DAG	1	metabolite	1.0529180765151978
+809	NH4_C36:1 DAG	1	metabolite	1.4637590646743774
+810	NH4_C36:2 DAG	1	metabolite	-0.32141897082328796
+811	NH4_C36:3 DAG	1	metabolite	0.7568357586860657
+812	NH4_C36:4 DAG	1	metabolite	0.8374165892601013
+813	NH4_C38:4 DAG	1	metabolite	0.9922347068786621
+814	NH4_C38:5 DAG	1	metabolite	-0.04737245291471481
+815	NH4_C42:0 TAG	1	metabolite	0.957789421081543
+816	NH4_C44:0 TAG	1	metabolite	0.3795700669288635
+817	NH4_C44:1 TAG	1	metabolite	-0.01587790809571743
+818	NH4_C44:2 TAG	1	metabolite	1.7214171886444092
+819	NH4_C46:0 TAG	1	metabolite	1.0337265729904175
+820	NH4_C46:1 TAG	1	metabolite	0.9207683801651001
+821	NH4_C46:2 TAG	1	metabolite	0.22301919758319855
+822	NH4_C46:3 TAG	1	metabolite	1.5819376707077026
+823	NH4_C48:0 TAG	1	metabolite	0.881854236125946
+824	NH4_C48:1 TAG	1	metabolite	0.4294002950191498
+825	NH4_C48:2 TAG	1	metabolite	0.6954987645149231
+826	NH4_C48:3 TAG	1	metabolite	1.843295693397522
+827	NH4_C48:4 TAG	1	metabolite	1.634137511253357
+828	NH4_C49:1 TAG	1	metabolite	1.7228130102157593
+829	NH4_C50:0 TAG	1	metabolite	0.5514134168624878
+830	NH4_C50:1 TAG	1	metabolite	-0.826720654964447
+831	NH4_C50:2 TAG	1	metabolite	0.8419104814529419
+832	NH4_C50:3 TAG	1	metabolite	1.2112501859664917
+833	NH4_C50:4 TAG	1	metabolite	1.1798902750015259
+834	NH4_C50:5 TAG	1	metabolite	1.269866943359375
+835	NH4_C51:0 TAG	1	metabolite	0.20095111429691315
+836	NH4_C51:1 TAG	1	metabolite	2.403942346572876
+837	NH4_C51:2 TAG	1	metabolite	1.4667571783065796
+838	NH4_C51:3 TAG	1	metabolite	1.4776421785354614
+839	NH4_C52:0 TAG	1	metabolite	1.4625439643859863
+840	NH4_C52:1 TAG	1	metabolite	0.8717038631439209
+841	NH4_C52:2 TAG	1	metabolite	0.14554306864738464
+842	NH4_C52:3 TAG	1	metabolite	0.16634437441825867
+843	NH4_C52:4 TAG	1	metabolite	0.5105797648429871
+844	NH4_C52:5 TAG	1	metabolite	0.5691857933998108
+845	NH4_C52:6 TAG	1	metabolite	1.59975266456604
+846	NH4_C53:2 TAG	1	metabolite	1.1526384353637695
+847	NH4_C53:3 TAG	1	metabolite	1.5714144706726074
+848	NH4_C54:2 TAG	1	metabolite	0.21582584083080292
+849	NH4_C54:3 TAG	1	metabolite	-0.7267988324165344
+850	NH4_C54:4 TAG	1	metabolite	0.5040763020515442
+851	NH4_C54:5 TAG	1	metabolite	-0.4430754780769348
+852	NH4_C54:6 TAG	1	metabolite	-0.3110775053501129
+853	NH4_C56:1 TAG	1	metabolite	1.014489769935608
+854	NH4_C56:2 TAG	1	metabolite	0.17593377828598022
+855	NH4_C56:3 TAG	1	metabolite	0.4991697371006012
+856	NH4_C56:4 TAG	1	metabolite	0.6610214710235596
+857	NH4_C56:6 TAG	1	metabolite	0.6856505870819092
+858	NMMA	1	metabolite	0.7267614006996155
+859	S-adenosylmethionine	1	metabolite	-0.15910542011260986
+860	S-methylcysteine-S-oxide	1	metabolite	1.2246367931365967
+861	UMP	1	metabolite	2.541343927383423
+862	acesulfame	1	metabolite	0.7730370759963989
+863	acetaminophen	1	metabolite	1.0511153936386108
+864	acetyl-galactosamine	1	metabolite	1.9167474508285522
+865	acetylalanine	1	metabolite	1.7905153036117554
+866	acetylcholine	1	metabolite	-0.6773527264595032
+867	acetytyrosine	1	metabolite	1.5352253913879395
+868	adenine	1	metabolite	0.18606147170066833
+869	adenosine	1	metabolite	-0.33281123638153076
+870	adipate	1	metabolite	0.5129619240760803
+871	adrenate	1	metabolite	0.8598324060440063
+872	agmatine	1	metabolite	-0.6352484226226807
+873	alanine	1	metabolite	0.8779565691947937
+874	alanylalanine	1	metabolite	-1.0291047096252441
+875	alloisoleucine	1	metabolite	-1.5490498542785645
+876	alpha-CEHC	1	metabolite	2.3515541553497314
+877	alpha-glycerophosphate	1	metabolite	0.5967324376106262
+878	alpha-glycerophosphocholine	1	metabolite	1.672584056854248
+879	alpha-hydroxymetoprolol	1	metabolite	0.43157199025154114
+880	alpha-ketoglutarate	1	metabolite	0.39111030101776123
+881	alpha-ketoisovalerate	1	metabolite	2.5237998962402344
+882	alpha-linolenate	1	metabolite	0.8518195152282715
+883	alpha-muricholate	1	metabolite	-0.27794694900512695
+884	aminoisobutyric acid/GABA	1	metabolite	1.5685625076293945
+885	anserine	1	metabolite	0.8888483643531799
+886	arachidate	1	metabolite	-0.32253992557525635
+887	arachidonate	1	metabolite	0.036236271262168884
+888	arginine	1	metabolite	0.06761006265878677
+889	ascorbate	1	metabolite	0.5097550749778748
+890	asparagine	1	metabolite	2.143538236618042
+891	aspartate	1	metabolite	0.14945901930332184
+892	atenolol	1	metabolite	-1.4113551378250122
+893	azelate	1	metabolite	0.3287465572357178
+894	beta-alanine	1	metabolite	-0.22819292545318604
+895	beta-guanidinopropionic acid	1	metabolite	0.8805853724479675
+896	beta-sitosterol	1	metabolite	0.3998388946056366
+897	betaine	1	metabolite	0.8878589868545532
+898	bilirubin	1	metabolite	0.7321646213531494
+899	biliverdin	1	metabolite	0.717934787273407
+900	biotin	1	metabolite	-0.8110137581825256
+901	butyrate	1	metabolite	0.46395495533943176
+902	butyrobetaine	1	metabolite	-0.5666248202323914
+903	cadaverine	1	metabolite	0.1813107132911682
+904	caffeine	1	metabolite	1.6778337955474854
+905	caprate	1	metabolite	1.0350371599197388
+906	caproate	1	metabolite	0.9753131866455078
+907	caprylate	1	metabolite	-0.4281088411808014
+908	carboxyibuprofen	1	metabolite	0.8233814239501953
+909	carnitine	1	metabolite	0.3267218768596649
+910	carnosol	1	metabolite	0.2896159589290619
+911	carnosol_isomer	1	metabolite	1.929810881614685
+912	cetrizine	1	metabolite	1.0199806690216064
+913	chenodeoxycholate	1	metabolite	0.39810696244239807
+914	cholate	1	metabolite	-0.44825202226638794
+915	cholesterol	1	metabolite	0.13308341801166534
+916	choline	1	metabolite	0.39017143845558167
+917	cinnamoylglycine	1	metabolite	-0.6214869022369385
+918	citrate	1	metabolite	1.4601125717163086
+919	citrulline	1	metabolite	0.08481523394584656
+920	corticosterone	1	metabolite	1.6509736776351929
+921	cortisol	1	metabolite	2.9441568851470947
+922	cotinine	1	metabolite	0.2528865337371826
+923	creatine	1	metabolite	1.2577149868011475
+924	creatinine	1	metabolite	0.49772319197654724
+925	crustecdysone	1	metabolite	1.418558120727539
+926	cystine	1	metabolite	1.124280571937561
+927	cytidine	1	metabolite	-0.6470469832420349
+928	cytosine	1	metabolite	0.8761075139045715
+929	dCMP	1	metabolite	0.7691649198532104
+930	dTMP	1	metabolite	1.2408545017242432
+931	deoxycholate	1	metabolite	-0.23134829103946686
+932	diacetylspermine	1	metabolite	-0.186211958527565
+933	diaminopimelate	1	metabolite	0.44374358654022217
+934	dihydroorotate	1	metabolite	2.4897053241729736
+935	dimethylglycine	1	metabolite	2.4452826976776123
+936	docosahexaenoate	1	metabolite	-0.10409285873174667
+937	docosapentaenoate	1	metabolite	0.31905823945999146
+938	dodecanedioate	1	metabolite	0.1975034475326538
+939	dodecanoate	1	metabolite	0.1564428210258484
+940	ectoine	1	metabolite	0.25116223096847534
+941	eicosadienoate	1	metabolite	-0.10640449821949005
+942	eicosanedioate	1	metabolite	2.5301175117492676
+943	eicosapentaenoate	1	metabolite	0.3538995683193207
+944	eicosatrienoate	1	metabolite	0.8704311847686768
+945	eicosenoate	1	metabolite	0.23660653829574585
+946	epiandrosterone	1	metabolite	-0.42901912331581116
+947	erythronate	1	metabolite	1.145309567451477
+948	ethyl glucuronide	1	metabolite	0.7209904789924622
+949	fructose/glucose/galactose	1	metabolite	-1.159803032875061
+950	fucose	1	metabolite	0.8389622569084167
+951	fumarate/maleate	1	metabolite	1.3221797943115234
+952	furosemide	1	metabolite	1.529638648033142
+953	gabapentin	1	metabolite	0.7141109108924866
+954	gemfibrozil	1	metabolite	1.9857429265975952
+955	gentisate	1	metabolite	0.6656374335289001
+956	glutamate	1	metabolite	0.8640514016151428
+957	glutamine	1	metabolite	1.0950385332107544
+958	glycerate	1	metabolite	0.010216853581368923
+959	glycine	1	metabolite	2.774329423904419
+960	glycochenodeoxycholate	1	metabolite	0.19995476305484772
+961	glycocholate	1	metabolite	0.5248863101005554
+962	glycodeoxycholate	1	metabolite	0.8150932788848877
+963	glycolithocholate	1	metabolite	0.8980540633201599
+964	glycoursodeoxycholate	1	metabolite	1.4876766204833984
+965	guanidoacetic acid	1	metabolite	-0.5734080076217651
+966	guanine	1	metabolite	1.1289476156234741
+967	guanosine	1	metabolite	1.4964807033538818
+968	heptadecanoate	1	metabolite	0.09991821646690369
+969	heptanoate	1	metabolite	1.7218163013458252
+970	hexadecanedioate	1	metabolite	1.1274030208587646
+971	hippurate	1	metabolite	1.4097007513046265
+972	histamine	1	metabolite	1.5365275144577026
+973	histidine	1	metabolite	1.1710513830184937
+974	histidinol	1	metabolite	1.022064447402954
+975	homoarginine	1	metabolite	-0.3193466365337372
+976	homocitrulline	1	metabolite	0.6710354685783386
+977	homovanillate	1	metabolite	0.8889940977096558
+978	hydrochlorothiazide	1	metabolite	1.812498927116394
+979	hydrocinnamate	1	metabolite	-0.7960336208343506
+980	hydroxycotinine	1	metabolite	1.3744090795516968
+981	hydroxymyristate	1	metabolite	1.6577950716018677
+982	hydroxyproline	1	metabolite	1.0534523725509644
+983	hyodeoxycholate/ursodeoxycholate	1	metabolite	0.08284059911966324
+984	hypoxanthine	1	metabolite	0.3888939619064331
+985	imidazole propionate	1	metabolite	0.7557802200317383
+986	imidazoleacetic acid	1	metabolite	-0.3661821484565735
+987	imidazolelactate	1	metabolite	2.0053577423095703
+988	indole-3-propionate	1	metabolite	0.7747493386268616
+989	indoleacetate	1	metabolite	0.8948840498924255
+990	indoxyl sulfate	1	metabolite	0.22790183126926422
+991	inosine	1	metabolite	0.8442472219467163
+992	isoleucine	1	metabolite	-0.04266108199954033
+993	ketodeoxycholate	1	metabolite	0.3863442838191986
+994	kynurenic acid	1	metabolite	0.9795659184455872
+995	lactate	1	metabolite	1.3352700471878052
+996	lactose	1	metabolite	-0.2727804183959961
+997	leucine	1	metabolite	0.3595060408115387
+998	linoleate	1	metabolite	-0.7576037049293518
+999	linoleoyl ethanolamide	1	metabolite	0.23833146691322327
+1000	linoleoylethanolamide	1	metabolite	0.11142691969871521
+1001	lithocholate	1	metabolite	0.1328316181898117
+1002	lysine	1	metabolite	-0.03852496296167374
+1003	malate	1	metabolite	0.8684574365615845
+1004	malonate	1	metabolite	1.1891757249832153
+1005	mandelate	1	metabolite	2.5017597675323486
+1006	masilinate	1	metabolite	0.030806025490164757
+1007	metformin	1	metabolite	0.23672083020210266
+1008	methionine	1	metabolite	-0.2833387851715088
+1009	methionine sulfoxide	1	metabolite	-0.16206350922584534
+1010	methylimidazole acetic acid	1	metabolite	-0.6154598593711853
+1011	metronidazole	1	metabolite	1.248015284538269
+1012	myristate	1	metabolite	0.14873740077018738
+1013	myristoleate	1	metabolite	1.7198896408081055
+1014	nervonic acid	1	metabolite	1.3181129693984985
+1015	niacinamide	1	metabolite	-0.33699509501457214
+1016	nicotinate	1	metabolite	0.9597947001457214
+1017	nicotinuric acid	1	metabolite	-0.5410366654396057
+1018	nonadecanoate	1	metabolite	2.0373432636260986
+1019	norepinephrine	1	metabolite	2.8466897010803223
+1020	oleanate	1	metabolite	0.3584200441837311
+1021	oleate	1	metabolite	-0.3633793294429779
+1022	olmesartan	1	metabolite	1.3193310499191284
+1023	ornithine	1	metabolite	1.1617841720581055
+1024	orotate	1	metabolite	0.044708654284477234
+1025	oxalate	1	metabolite	0.580565333366394
+1026	oxymetazoline	1	metabolite	1.12858247756958
+1027	oxypurinol	1	metabolite	0.7289516925811768
+1028	p-hydroxyphenylacetate	1	metabolite	0.3943949341773987
+1029	palmitate	1	metabolite	0.6405313014984131
+1030	palmithoylethanolamide	1	metabolite	0.5450677275657654
+1031	palmitoleate	1	metabolite	0.16408805549144745
+1032	palmitoylethanolamide	1	metabolite	1.208894968032837
+1033	pantothenate	1	metabolite	-0.3415394723415375
+1034	pentadecanoate	1	metabolite	-0.5901765823364258
+1035	pentose monophosphate	1	metabolite	2.4366044998168945
+1036	phenylacetate	1	metabolite	-0.48302266001701355
+1037	phenylacetylglutamine	1	metabolite	0.6659365892410278
+1038	phenylalanine	1	metabolite	0.8839588761329651
+1039	phenyllactate	1	metabolite	0.5903818011283875
+1040	phytanate	1	metabolite	1.128392219543457
+1041	phytosphingosine	1	metabolite	0.1657877266407013
+1042	pipecolic acid	1	metabolite	0.33365634083747864
+1043	piperine	1	metabolite	-0.16741526126861572
+1044	porphobilinogen	1	metabolite	-0.1156327947974205
+1045	proline	1	metabolite	0.33736562728881836
+1046	proline betaine	1	metabolite	-0.1321558952331543
+1047	propionate	1	metabolite	-0.3967306911945343
+1048	pseudouridine	1	metabolite	0.6718510389328003
+1049	pterin	1	metabolite	0.05059557035565376
+1050	putrescine	1	metabolite	0.7325997948646545
+1051	pyridoxine	1	metabolite	0.9862834811210632
+1052	pyrocatechol	1	metabolite	0.9527486562728882
+1053	quinine	1	metabolite	1.6445157527923584
+1054	riboflavin	1	metabolite	1.4425039291381836
+1055	ribothymidine	1	metabolite	0.6852365136146545
+1056	saccharin	1	metabolite	0.5508915781974792
+1057	salicylate	1	metabolite	0.25458401441574097
+1058	sebacate	1	metabolite	0.1698456108570099
+1059	serine	1	metabolite	1.2380199432373047
+1060	serotonin	1	metabolite	1.3908642530441284
+1061	shikimate	1	metabolite	1.393858790397644
+1062	sorbitol	1	metabolite	1.0067521333694458
+1063	spermidine	1	metabolite	-1.0095345973968506
+1064	sphinganine	1	metabolite	-0.05223337560892105
+1065	sphingosine	1	metabolite	0.004203233867883682
+1066	sphingosine-isomer1	1	metabolite	0.12194298952817917
+1067	sphingosine-isomer2	1	metabolite	0.28929147124290466
+1068	sphingosine-isomer3	1	metabolite	-1.1668164730072021
+1069	stearate	1	metabolite	-0.5768930315971375
+1070	suberate	1	metabolite	-0.9716289639472961
+1071	succinate	1	metabolite	0.6499149799346924
+1072	sulfapyridine	1	metabolite	-0.5470506548881531
+1073	tartarate	1	metabolite	1.0394387245178223
+1074	taurine	1	metabolite	1.1114705801010132
+1075	tauro-alpha-muricholate/tauro-beta-muricholate	1	metabolite	1.3502775430679321
+1076	taurochenodeoxycholate	1	metabolite	0.37481164932250977
+1077	taurocholate	1	metabolite	0.3522000014781952
+1078	taurodeoxycholate	1	metabolite	0.4154609143733978
+1079	taurohyodeoxycholate/tauroursodeoxycholate	1	metabolite	0.12130632251501083
+1080	taurolithocholate	1	metabolite	0.6736580729484558
+1081	tetradecanedioate	1	metabolite	1.238882064819336
+1082	tetrahydro-1-methyl-beta-carboline-3-carboxylate	1	metabolite	0.7201183438301086
+1083	theophylline	1	metabolite	0.09084721654653549
+1084	threonine	1	metabolite	0.6552198529243469
+1085	threosphingosine	1	metabolite	-0.6793756484985352
+1086	thymine	1	metabolite	1.902972936630249
+1087	trigonelline	1	metabolite	0.3523802161216736
+1088	trimethylamine-N-oxide	1	metabolite	1.5796829462051392
+1089	trimethylbenzene	1	metabolite	-0.11125729233026505
+1090	tryptophan	1	metabolite	0.49462389945983887
+1091	tyrosine	1	metabolite	-0.9306241869926453
+1092	undecanedionate	1	metabolite	1.219440221786499
+1093	uracil	1	metabolite	0.15902213752269745
+1094	urate	1	metabolite	1.0344210863113403
+1095	uridine	1	metabolite	0.6149659752845764
+1096	urobilin	1	metabolite	-1.1925770044326782
+1097	valerate/isovalerate	1	metabolite	-1.081981897354126
+1098	valine	1	metabolite	-0.8922755718231201
+1099	xanthine	1	metabolite	0.8427420854568481
+1100	xanthurenate	1	metabolite	-0.08054887503385544
+1101	xylose	1	metabolite	0.7527071833610535
+1102	1-3-7-trimethylurate	2	metabolite	0.0
+1103	1-methylguanine	2	metabolite	-0.12441515922546387
+1104	1-methylguanosine	2	metabolite	-0.49164000153541565
+1105	1-methylhistamine	2	metabolite	-0.28704556822776794
+1106	1-methylnicotinamide	2	metabolite	-0.6555071473121643
+1107	1.2.3.4-tetrahydro-beta-carboline-1.3-dicarboxylate	2	metabolite	-0.7924119830131531
+1108	10-heptadecenoate	2	metabolite	0.2773319184780121
+1109	10-nonadecenoate	2	metabolite	-0.4418952167034149
+1110	12.13-diHOME	2	metabolite	-0.4832867980003357
+1111	13-cis-retinoic acid	2	metabolite	-0.8339322805404663
+1112	13-docosenoate	2	metabolite	-0.014347034506499767
+1113	17-methylstearate	2	metabolite	-0.6615703105926514
+1114	2'-O-methyladenosine	2	metabolite	-0.5464465618133545
+1115	2-aminoadipate	2	metabolite	0.9170842170715332
+1116	2-aminobutyrate	2	metabolite	-1.3060932159423828
+1117	2-aminoheptanoic acid	2	metabolite	-0.7274714708328247
+1118	2-deoxyadenosine	2	metabolite	1.1024737358093262
+1119	2-deoxycytidine	2	metabolite	0.9663151502609253
+1120	2-hydroxy-3-methylbutyrate	2	metabolite	0.25910520553588867
+1121	2-hydroxy-3-methylpentanoate	2	metabolite	-0.09126719832420349
+1122	2-hydroxyglutarate	2	metabolite	-0.5010569095611572
+1123	2-hydroxyhexadecanoate	2	metabolite	0.21607474982738495
+1124	2-hydroxyibuprofen	2	metabolite	0.4835977554321289
+1125	2-hydroxyoctanoate	2	metabolite	-0.47569477558135986
+1126	21-deoxycortisol	2	metabolite	-0.5679649710655212
+1127	3'-O-methyladenosine	2	metabolite	0.5806580185890198
+1128	3-hydroxydecanoate	2	metabolite	-0.3239515423774719
+1129	3-hydroxymethylglutarate	2	metabolite	0.04434815049171448
+1130	3-hydroxyoctanoate	2	metabolite	-1.342574119567871
+1131	3-methyladipate/pimelate	2	metabolite	-0.21235871315002441
+1132	3-methylglutaconate	2	metabolite	-1.1286957263946533
+1133	3-methylhistidine	2	metabolite	-0.5120995044708252
+1134	3-methylxanthine	2	metabolite	0.021870266646146774
+1135	4-aminophenol	2	metabolite	-0.8958516120910645
+1136	4-guanidinobutanoic acid	2	metabolite	-0.01983649656176567
+1137	4-hydroxy-3-methylacetophenone	2	metabolite	-0.44164541363716125
+1138	4-hydroxybenzaldehyde	2	metabolite	0.7059865593910217
+1139	4-hydroxybenzeneacetonitrile	2	metabolite	-1.130125880241394
+1140	4-hydroxystyrene	2	metabolite	0.4854191541671753
+1141	4-methylcatechol	2	metabolite	0.30704256892204285
+1142	4-nitrophenol	2	metabolite	-0.4264172613620758
+1143	4-pyridoxate	2	metabolite	0.011157975532114506
+1144	5-acetylamino-6-amino-3-methyluracil	2	metabolite	0.6020098924636841
+1145	5-aminolevulinic acid	2	metabolite	-0.20440250635147095
+1146	5-dodecenoate	2	metabolite	-1.045596718788147
+1147	5-hydroxytryptophan	2	metabolite	-0.6440196633338928
+1148	5alpha-cholestan-3beta-ol	2	metabolite	-0.761505663394928
+1149	7-methylguanine	2	metabolite	0.8604182004928589
+1150	7-methylxanthine	2	metabolite	0.267526775598526
+1151	8-hydroxy-deoxyguanosine	2	metabolite	0.17203523218631744
+1152	9.10-diHOME	2	metabolite	0.5119865536689758
+1153	ADMA/SDMA	2	metabolite	0.07567689567804337
+1154	C10 carnitine	2	metabolite	0.563121497631073
+1155	C10:2 carnitine	2	metabolite	-0.6292252540588379
+1156	C12 carnitine	2	metabolite	-0.36976462602615356
+1157	C12:1 carnitine	2	metabolite	-0.6911478042602539
+1158	C14 carnitine	2	metabolite	-0.597524106502533
+1159	C14:0 CE	2	metabolite	-1.1877959966659546
+1160	C14:0 LPC	2	metabolite	0.23299150168895721
+1161	C14:0 SM	2	metabolite	-0.5345070362091064
+1162	C14:1 carnitine	2	metabolite	-0.5597852468490601
+1163	C14:2 carnitine	2	metabolite	-0.8392347693443298
+1164	C16 carnitine	2	metabolite	0.27706050872802734
+1165	C16-OH carnitine	2	metabolite	0.05608010292053223
+1166	C16:0 CE	2	metabolite	0.5271819233894348
+1167	C16:0 Ceramide (d18:1)	2	metabolite	0.5613798499107361
+1168	C16:0 LPC	2	metabolite	0.2553529739379883
+1169	C16:0 LPE	2	metabolite	0.7375705242156982
+1170	C16:0 SM	2	metabolite	-0.27029240131378174
+1171	C16:1 CE	2	metabolite	-0.6368380784988403
+1172	C16:1 LPC	2	metabolite	-0.10473565757274628
+1173	C16:1 LPC plasmalogen	2	metabolite	-0.13719674944877625
+1174	C16:1 LPE	2	metabolite	-0.7778252959251404
+1175	C16:1 MAG	2	metabolite	0.5997817516326904
+1176	C16:1 SM	2	metabolite	0.1411360204219818
+1177	C18 carnitine	2	metabolite	0.1636190414428711
+1178	C18:0 CE	2	metabolite	0.5514938235282898
+1179	C18:0 LPC	2	metabolite	0.23132044076919556
+1180	C18:0 LPE	2	metabolite	-0.05373293161392212
+1181	C18:0 LPE-A	2	metabolite	0.1491171419620514
+1182	C18:0 LPE-B	2	metabolite	0.64933180809021
+1183	C18:0 MAG	2	metabolite	0.56500643491745
+1184	C18:0 SM	2	metabolite	-0.8878446817398071
+1185	C18:1 CE	2	metabolite	0.1695571094751358
+1186	C18:1 LPC	2	metabolite	0.7962267398834229
+1187	C18:1 LPC plasmalogen	2	metabolite	0.7761932015419006
+1188	C18:1 LPE	2	metabolite	0.9451186060905457
+1189	C18:1 SM	2	metabolite	-0.9038075804710388
+1190	C18:1 carnitine	2	metabolite	-0.030523216351866722
+1191	C18:1-OH carnitine	2	metabolite	0.18323542177677155
+1192	C18:2 CE	2	metabolite	0.37720054388046265
+1193	C18:2 LPC	2	metabolite	0.09114214777946472
+1194	C18:2 LPE	2	metabolite	-0.13492320477962494
+1195	C18:2 carnitine	2	metabolite	-0.037765052169561386
+1196	C18:3 CE	2	metabolite	-0.2873738706111908
+1197	C18:3 LPC	2	metabolite	-0.08034410327672958
+1198	C2 Ceramide (d18:1)	2	metabolite	-0.79118812084198
+1199	C2 carnitine	2	metabolite	0.30674606561660767
+1200	C20 carnitine	2	metabolite	-0.5431362986564636
+1201	C20:0 LPE	2	metabolite	0.6250829696655273
+1202	C20:0 SM	2	metabolite	-0.582947850227356
+1203	C20:1 LPC	2	metabolite	-0.05690799281001091
+1204	C20:3 CE	2	metabolite	0.05263875797390938
+1205	C20:3 LPC	2	metabolite	0.3816913068294525
+1206	C20:4 CE	2	metabolite	-0.44310107827186584
+1207	C20:4 LPC	2	metabolite	-0.3200348913669586
+1208	C20:4 LPE	2	metabolite	-1.1536225080490112
+1209	C20:4 carnitine	2	metabolite	1.1201567649841309
+1210	C20:5 CE	2	metabolite	-0.6546040773391724
+1211	C20:5 LPC	2	metabolite	0.12693147361278534
+1212	C22:0 Ceramide (d18:1)	2	metabolite	0.13381466269493103
+1213	C22:0 LPE	2	metabolite	-1.0629465579986572
+1214	C22:0 SM	2	metabolite	-0.3079339265823364
+1215	C22:1 MAG	2	metabolite	-1.185962438583374
+1216	C22:1 SM	2	metabolite	-0.787097156047821
+1217	C22:4 CE	2	metabolite	-0.6484071016311646
+1218	C22:5 CE	2	metabolite	-0.31248074769973755
+1219	C22:6 CE	2	metabolite	-0.9276368618011475
+1220	C22:6 LPC	2	metabolite	-0.9574316740036011
+1221	C22:6 LPE	2	metabolite	-0.13136129081249237
+1222	C24:0 Ceramide (d18:1)	2	metabolite	-0.7375359535217285
+1223	C24:0 SM	2	metabolite	0.46882039308547974
+1224	C24:1 Ceramide (d18:1)	2	metabolite	-0.12386734038591385
+1225	C24:1 SM	2	metabolite	-0.5780220031738281
+1226	C3 carnitine	2	metabolite	-0.7076202034950256
+1227	C3-DC-CH3 carnitine	2	metabolite	-0.17653191089630127
+1228	C30:0 DAG	2	metabolite	-0.034743502736091614
+1229	C30:0 PC	2	metabolite	-0.13015736639499664
+1230	C32:0 DAG	2	metabolite	-0.37040141224861145
+1231	C32:0 PC	2	metabolite	-0.23911429941654205
+1232	C32:0 PE	2	metabolite	-0.880479633808136
+1233	C32:1 DAG	2	metabolite	-0.2453111708164215
+1234	C32:1 PC	2	metabolite	-0.3970799446105957
+1235	C32:2 DAG	2	metabolite	0.03018006682395935
+1236	C34:0 DAG	2	metabolite	0.15299728512763977
+1237	C34:0 PC	2	metabolite	-0.10658419877290726
+1238	C34:0 PE	2	metabolite	-1.2324148416519165
+1239	C34:1 DAG	2	metabolite	0.7385404109954834
+1240	C34:1 PC	2	metabolite	-0.42660436034202576
+1241	C34:1 PC plasmalogen	2	metabolite	-0.16063731908798218
+1242	C34:2 DAG	2	metabolite	0.86392742395401
+1243	C34:2 PC	2	metabolite	-0.5048075318336487
+1244	C34:2 PC plasmalogen	2	metabolite	-0.317706435918808
+1245	C34:3 DAG	2	metabolite	0.2755141854286194
+1246	C34:3 PC	2	metabolite	-1.1266573667526245
+1247	C34:4 PC plasmalogen	2	metabolite	-0.6628817319869995
+1248	C36:0 DAG	2	metabolite	-0.16752701997756958
+1249	C36:1 DAG	2	metabolite	0.41822096705436707
+1250	C36:1 PC	2	metabolite	-0.20872797071933746
+1251	C36:1 PC plasmalogen	2	metabolite	-0.13734455406665802
+1252	C36:2 DAG	2	metabolite	0.3451313376426697
+1253	C36:2 PC	2	metabolite	0.5306248664855957
+1254	C36:2 PC plasmalogen	2	metabolite	-0.5164699554443359
+1255	C36:3 DAG	2	metabolite	0.9247769713401794
+1256	C36:3 PC	2	metabolite	-0.15264643728733063
+1257	C36:4 DAG	2	metabolite	-0.023483287543058395
+1258	C36:4 PC plasmalogen	2	metabolite	-0.15833620727062225
+1259	C36:4 PC-A	2	metabolite	0.2239566594362259
+1260	C36:4 PC-B	2	metabolite	-0.969333827495575
+1261	C36:5 PC plasmalogen	2	metabolite	-0.912505030632019
+1262	C38:2 PC	2	metabolite	-1.319892406463623
+1263	C38:3 PC	2	metabolite	-0.3267037570476532
+1264	C38:4 PC	2	metabolite	-0.40924397110939026
+1265	C38:4 PC plasmalogen	2	metabolite	-0.9982268214225769
+1266	C38:5 DAG	2	metabolite	-0.19999577105045319
+1267	C38:6 PC	2	metabolite	-0.7964432239532471
+1268	C4 carnitine	2	metabolite	-0.7032762765884399
+1269	C42:0 TAG	2	metabolite	-0.19353903830051422
+1270	C44:0 TAG	2	metabolite	0.33874884247779846
+1271	C44:1 TAG	2	metabolite	-0.6022046208381653
+1272	C44:2 TAG	2	metabolite	-1.1437677145004272
+1273	C45:0 TAG	2	metabolite	-0.8820215463638306
+1274	C46:0 TAG	2	metabolite	-0.372703492641449
+1275	C46:1 TAG	2	metabolite	-0.10709723085165024
+1276	C46:2 TAG	2	metabolite	-0.3138704299926758
+1277	C46:3 TAG	2	metabolite	-1.2044168710708618
+1278	C48:0 TAG	2	metabolite	0.5646523237228394
+1279	C48:1 TAG	2	metabolite	-0.591846227645874
+1280	C48:2 TAG	2	metabolite	-0.9234453439712524
+1281	C48:3 TAG	2	metabolite	-0.40169158577919006
+1282	C48:4 TAG	2	metabolite	-1.3468152284622192
+1283	C5 carnitine	2	metabolite	-0.9788742661476135
+1284	C50:0 TAG	2	metabolite	-0.24571962654590607
+1285	C50:1 TAG	2	metabolite	0.02510136552155018
+1286	C50:2 TAG	2	metabolite	0.36545079946517944
+1287	C50:3 TAG	2	metabolite	0.9033251404762268
+1288	C50:4 TAG	2	metabolite	0.08053556084632874
+1289	C50:5 TAG	2	metabolite	-0.6057636141777039
+1290	C51:0 TAG	2	metabolite	-1.069343090057373
+1291	C51:1 TAG	2	metabolite	-1.32828950881958
+1292	C51:2 TAG	2	metabolite	-0.862108588218689
+1293	C51:3 TAG	2	metabolite	-0.5601662993431091
+1294	C52:0 TAG	2	metabolite	0.31612101197242737
+1295	C52:1 TAG	2	metabolite	-0.24775657057762146
+1296	C52:2 TAG	2	metabolite	-0.07682020217180252
+1297	C52:3 TAG	2	metabolite	1.10094153881073
+1298	C52:4 TAG	2	metabolite	0.9766829609870911
+1299	C52:5 TAG	2	metabolite	-0.09084706008434296
+1300	C52:6 TAG	2	metabolite	-0.27998417615890503
+1301	C52:7 TAG	2	metabolite	-0.6319481134414673
+1302	C53:3 TAG	2	metabolite	0.09046709537506104
+1303	C54:1 TAG	2	metabolite	0.772837221622467
+1304	C54:2 TAG	2	metabolite	0.11127501726150513
+1305	C54:3 TAG	2	metabolite	-0.3793351650238037
+1306	C54:4 TAG	2	metabolite	0.6777160167694092
+1307	C54:5 TAG	2	metabolite	-0.2519941031932831
+1308	C54:6 TAG	2	metabolite	0.35871291160583496
+1309	C55:2 TAG	2	metabolite	-1.3328630924224854
+1310	C55:3 TAG	2	metabolite	-0.8898962140083313
+1311	C56:1 TAG	2	metabolite	0.16677379608154297
+1312	C56:2 TAG	2	metabolite	0.6502348184585571
+1313	C56:3 TAG	2	metabolite	0.21462365984916687
+1314	C56:4 TAG	2	metabolite	0.544593095779419
+1315	C56:6 TAG	2	metabolite	-0.6326498985290527
+1316	C56:7 TAG	2	metabolite	-0.5814923644065857
+1317	C58:10 TAG	2	metabolite	-0.43584364652633667
+1318	C8 carnitine	2	metabolite	-0.6427555680274963
+1319	C9 carnitine	2	metabolite	-0.5454702973365784
+1320	N-acetyalanine	2	metabolite	-1.4955252408981323
+1321	N-acetylaspartic acid	2	metabolite	-1.2519302368164062
+1322	N-acetylglutamate	2	metabolite	0.46126028895378113
+1323	N-acetylglutamine	2	metabolite	0.31083521246910095
+1324	N-acetylhistamine	2	metabolite	-0.7176849842071533
+1325	N-acetylhistidine	2	metabolite	-0.6113537549972534
+1326	N-acetylornithine	2	metabolite	-1.1116533279418945
+1327	N-acetylputrescine	2	metabolite	-0.12625285983085632
+1328	N-alpha-acetylarginine	2	metabolite	0.44449588656425476
+1329	N-carbamoyl-beta-alanine	2	metabolite	-0.761079728603363
+1330	N-methylproline	2	metabolite	-0.13031907379627228
+1331	N1,N12-diacetylspermine	2	metabolite	0.12707489728927612
+1332	N1-acetylspermidine	2	metabolite	0.7455664873123169
+1333	N1-acetylspermine	2	metabolite	0.20072974264621735
+1334	N1-methyl-2-pyridone-5-carboxamide	2	metabolite	0.05790229141712189
+1335	N2,N2-dimethylguanosine	2	metabolite	-0.005278495606034994
+1336	N6,N6,N6-trimethyllysine	2	metabolite	-0.1665157526731491
+1337	N6,N6-dimethyllysine	2	metabolite	0.38778743147850037
+1338	N6-acetyllysine	2	metabolite	1.5189447402954102
+1339	NH4_C16:0 CE	2	metabolite	-0.844540536403656
+1340	NH4_C16:1 CE	2	metabolite	-0.5085116624832153
+1341	NH4_C16:1 MAG	2	metabolite	-1.036111831665039
+1342	NH4_C18:0 CE	2	metabolite	-0.5389060974121094
+1343	NH4_C18:0 MAG	2	metabolite	0.5807552933692932
+1344	NH4_C18:1 CE	2	metabolite	0.2465946078300476
+1345	NH4_C18:2 CE	2	metabolite	0.415794312953949
+1346	NH4_C18:3 CE	2	metabolite	0.2987076938152313
+1347	NH4_C20:3 CE	2	metabolite	0.750518798828125
+1348	NH4_C20:4 CE	2	metabolite	0.6395590305328369
+1349	NH4_C20:5 CE	2	metabolite	-0.3559589087963104
+1350	NH4_C22:1 MAG	2	metabolite	-1.1289600133895874
+1351	NH4_C22:4 CE	2	metabolite	-0.7687095403671265
+1352	NH4_C22:5 CE	2	metabolite	-0.9157683253288269
+1353	NH4_C22:6 CE	2	metabolite	-0.4987539052963257
+1354	NH4_C32:1 DAG	2	metabolite	0.5784085988998413
+1355	NH4_C32:2 DAG	2	metabolite	-0.704368531703949
+1356	NH4_C34:1 DAG	2	metabolite	1.0516886711120605
+1357	NH4_C34:2 DAG	2	metabolite	0.48783302307128906
+1358	NH4_C34:3 DAG	2	metabolite	-0.1852274239063263
+1359	NH4_C36:0 DAG	2	metabolite	0.3491295874118805
+1360	NH4_C36:1 DAG	2	metabolite	0.2248687595129013
+1361	NH4_C36:2 DAG	2	metabolite	0.8055765628814697
+1362	NH4_C36:3 DAG	2	metabolite	0.1759423315525055
+1363	NH4_C36:4 DAG	2	metabolite	0.3776768445968628
+1364	NH4_C38:4 DAG	2	metabolite	-0.7742484211921692
+1365	NH4_C38:5 DAG	2	metabolite	-0.49915680289268494
+1366	NH4_C42:0 TAG	2	metabolite	-0.005664837080985308
+1367	NH4_C44:0 TAG	2	metabolite	-0.3335399031639099
+1368	NH4_C44:1 TAG	2	metabolite	-0.4494237005710602
+1369	NH4_C44:2 TAG	2	metabolite	-0.859760046005249
+1370	NH4_C46:0 TAG	2	metabolite	-0.5775671601295471
+1371	NH4_C46:1 TAG	2	metabolite	-1.3996707201004028
+1372	NH4_C46:2 TAG	2	metabolite	-0.3087252080440521
+1373	NH4_C46:3 TAG	2	metabolite	-1.1420958042144775
+1374	NH4_C48:0 TAG	2	metabolite	-0.36827483773231506
+1375	NH4_C48:1 TAG	2	metabolite	-0.35737282037734985
+1376	NH4_C48:2 TAG	2	metabolite	-0.45154711604118347
+1377	NH4_C48:3 TAG	2	metabolite	-0.8046960234642029
+1378	NH4_C48:4 TAG	2	metabolite	-0.9141961932182312
+1379	NH4_C49:1 TAG	2	metabolite	-1.1108349561691284
+1380	NH4_C50:0 TAG	2	metabolite	-0.22958850860595703
+1381	NH4_C50:1 TAG	2	metabolite	-0.10820452868938446
+1382	NH4_C50:2 TAG	2	metabolite	0.4147031009197235
+1383	NH4_C50:3 TAG	2	metabolite	-0.12247222661972046
+1384	NH4_C50:4 TAG	2	metabolite	-0.06865133345127106
+1385	NH4_C50:5 TAG	2	metabolite	-1.1416232585906982
+1386	NH4_C51:0 TAG	2	metabolite	-0.13040317595005035
+1387	NH4_C51:1 TAG	2	metabolite	-1.3748539686203003
+1388	NH4_C51:2 TAG	2	metabolite	-0.2982284724712372
+1389	NH4_C51:3 TAG	2	metabolite	0.04427045211195946
+1390	NH4_C52:0 TAG	2	metabolite	0.24999980628490448
+1391	NH4_C52:1 TAG	2	metabolite	0.5771755576133728
+1392	NH4_C52:2 TAG	2	metabolite	-0.050991881638765335
+1393	NH4_C52:3 TAG	2	metabolite	0.24776127934455872
+1394	NH4_C52:4 TAG	2	metabolite	1.370758295059204
+1395	NH4_C52:5 TAG	2	metabolite	0.14529521763324738
+1396	NH4_C52:6 TAG	2	metabolite	0.25500208139419556
+1397	NH4_C53:2 TAG	2	metabolite	-0.6428513526916504
+1398	NH4_C53:3 TAG	2	metabolite	-0.1633693277835846
+1399	NH4_C54:2 TAG	2	metabolite	-0.210563525557518
+1400	NH4_C54:3 TAG	2	metabolite	0.4310499429702759
+1401	NH4_C54:4 TAG	2	metabolite	0.8071158528327942
+1402	NH4_C54:5 TAG	2	metabolite	0.1465056985616684
+1403	NH4_C54:6 TAG	2	metabolite	-0.46868792176246643
+1404	NH4_C56:1 TAG	2	metabolite	-0.2272031158208847
+1405	NH4_C56:2 TAG	2	metabolite	-0.46547576785087585
+1406	NH4_C56:3 TAG	2	metabolite	-0.741238534450531
+1407	NH4_C56:4 TAG	2	metabolite	0.09969569742679596
+1408	NH4_C56:6 TAG	2	metabolite	-0.8226225972175598
+1409	NMMA	2	metabolite	0.1353495866060257
+1410	S-adenosylmethionine	2	metabolite	0.8415875434875488
+1411	S-methylcysteine-S-oxide	2	metabolite	-0.9676514267921448
+1412	UMP	2	metabolite	-1.441818118095398
+1413	acesulfame	2	metabolite	0.31056976318359375
+1414	acetaminophen	2	metabolite	-0.5532651543617249
+1415	acetyl-galactosamine	2	metabolite	-0.31435057520866394
+1416	acetylalanine	2	metabolite	-0.7903123497962952
+1417	acetylcholine	2	metabolite	1.5845903158187866
+1418	acetytyrosine	2	metabolite	-1.064209222793579
+1419	adenine	2	metabolite	0.0711807906627655
+1420	adenosine	2	metabolite	0.3247862160205841
+1421	adipate	2	metabolite	0.42120084166526794
+1422	adrenate	2	metabolite	0.25550320744514465
+1423	agmatine	2	metabolite	-0.0698808804154396
+1424	alanine	2	metabolite	0.19696983695030212
+1425	alanylalanine	2	metabolite	0.34619444608688354
+1426	alloisoleucine	2	metabolite	0.8809968829154968
+1427	alpha-CEHC	2	metabolite	-0.7492590546607971
+1428	alpha-glycerophosphate	2	metabolite	0.8836982846260071
+1429	alpha-glycerophosphocholine	2	metabolite	-0.25203433632850647
+1430	alpha-hydroxymetoprolol	2	metabolite	-0.1670028567314148
+1431	alpha-ketoglutarate	2	metabolite	0.15459118783473969
+1432	alpha-ketoisovalerate	2	metabolite	-0.6091932058334351
+1433	alpha-linolenate	2	metabolite	1.1560628414154053
+1434	alpha-muricholate	2	metabolite	0.13742747902870178
+1435	aminoisobutyric acid/GABA	2	metabolite	1.1263090372085571
+1436	anserine	2	metabolite	-0.14321281015872955
+1437	arachidate	2	metabolite	-0.10233910381793976
+1438	arachidonate	2	metabolite	0.4645038843154907
+1439	arginine	2	metabolite	0.11742478609085083
+1440	ascorbate	2	metabolite	0.6630064249038696
+1441	asparagine	2	metabolite	-1.3987096548080444
+1442	aspartate	2	metabolite	-0.11971338093280792
+1443	atenolol	2	metabolite	-1.2922437191009521
+1444	azelate	2	metabolite	0.49753937125205994
+1445	beta-alanine	2	metabolite	0.3520725965499878
+1446	beta-guanidinopropionic acid	2	metabolite	0.5538099408149719
+1447	beta-sitosterol	2	metabolite	0.341496080160141
+1448	betaine	2	metabolite	0.5517705082893372
+1449	bilirubin	2	metabolite	-0.1156214252114296
+1450	biliverdin	2	metabolite	0.009646068327128887
+1451	biotin	2	metabolite	-0.45848557353019714
+1452	butyrate	2	metabolite	0.7170968055725098
+1453	butyrobetaine	2	metabolite	-0.14688552916049957
+1454	cadaverine	2	metabolite	-0.14469127357006073
+1455	caffeine	2	metabolite	-0.10199576616287231
+1456	caprate	2	metabolite	0.02091469056904316
+1457	caproate	2	metabolite	-0.24553893506526947
+1458	caprylate	2	metabolite	-0.7361620664596558
+1459	carboxyibuprofen	2	metabolite	-0.1691463738679886
+1460	carnitine	2	metabolite	-0.275249719619751
+1461	carnosol	2	metabolite	0.4312361776828766
+1462	carnosol_isomer	2	metabolite	-1.1896483898162842
+1463	cetrizine	2	metabolite	-0.6093742251396179
+1464	chenodeoxycholate	2	metabolite	0.19547641277313232
+1465	cholate	2	metabolite	-0.7178670167922974
+1466	cholesterol	2	metabolite	-0.34915295243263245
+1467	choline	2	metabolite	0.4015088677406311
+1468	cinnamoylglycine	2	metabolite	-0.6677083969116211
+1469	citrate	2	metabolite	-1.1260559558868408
+1470	citrulline	2	metabolite	-0.10256540030241013
+1471	corticosterone	2	metabolite	-1.2704849243164062
+1472	cortisol	2	metabolite	-1.46659517288208
+1473	cotinine	2	metabolite	-1.1242774724960327
+1474	creatine	2	metabolite	-0.03675004839897156
+1475	creatinine	2	metabolite	0.44744452834129333
+1476	crustecdysone	2	metabolite	-0.31521251797676086
+1477	cystine	2	metabolite	-0.8791084289550781
+1478	cytidine	2	metabolite	-0.11950736492872238
+1479	cytosine	2	metabolite	-0.2318284660577774
+1480	dCMP	2	metabolite	0.2210613340139389
+1481	dTMP	2	metabolite	-1.6749643087387085
+1482	deoxycholate	2	metabolite	0.18618491291999817
+1483	diacetylspermine	2	metabolite	0.49827125668525696
+1484	diaminopimelate	2	metabolite	0.3552318513393402
+1485	dihydroorotate	2	metabolite	-1.1032148599624634
+1486	dimethylglycine	2	metabolite	1.010046124458313
+1487	docosahexaenoate	2	metabolite	-0.20956461131572723
+1488	docosapentaenoate	2	metabolite	0.24274764955043793
+1489	dodecanedioate	2	metabolite	-0.2636731266975403
+1490	dodecanoate	2	metabolite	0.4772971570491791
+1491	ectoine	2	metabolite	0.5756417512893677
+1492	eicosadienoate	2	metabolite	0.023965291678905487
+1493	eicosanedioate	2	metabolite	-1.3246110677719116
+1494	eicosapentaenoate	2	metabolite	-0.8050538301467896
+1495	eicosatrienoate	2	metabolite	0.19637179374694824
+1496	eicosenoate	2	metabolite	-0.308305561542511
+1497	epiandrosterone	2	metabolite	0.3841143250465393
+1498	erythronate	2	metabolite	-0.16515417397022247
+1499	ethyl glucuronide	2	metabolite	-0.07150581479072571
+1500	fructose/glucose/galactose	2	metabolite	0.3429723381996155
+1501	fucose	2	metabolite	-0.4392932057380676
+1502	fumarate/maleate	2	metabolite	-0.26181110739707947
+1503	furosemide	2	metabolite	-0.1516062617301941
+1504	gabapentin	2	metabolite	-0.3852698504924774
+1505	gemfibrozil	2	metabolite	0.5044518709182739
+1506	gentisate	2	metabolite	0.2766895294189453
+1507	glutamate	2	metabolite	0.407291054725647
+1508	glutamine	2	metabolite	-0.33895623683929443
+1509	glycerate	2	metabolite	0.01032386627048254
+1510	glycine	2	metabolite	-1.2750283479690552
+1511	glycochenodeoxycholate	2	metabolite	0.7512074112892151
+1512	glycocholate	2	metabolite	-0.6808146238327026
+1513	glycodeoxycholate	2	metabolite	-0.05490511655807495
+1514	glycolithocholate	2	metabolite	0.12344229966402054
+1515	glycoursodeoxycholate	2	metabolite	0.0851651057600975
+1516	guanidoacetic acid	2	metabolite	-0.37041398882865906
+1517	guanine	2	metabolite	-0.6628168225288391
+1518	guanosine	2	metabolite	-0.08619209378957748
+1519	heptadecanoate	2	metabolite	-0.3257450461387634
+1520	heptanoate	2	metabolite	-1.2268763780593872
+1521	hexadecanedioate	2	metabolite	-0.7248683571815491
+1522	hippurate	2	metabolite	-1.2359328269958496
+1523	histamine	2	metabolite	-0.2127464860677719
+1524	histidine	2	metabolite	-0.0052643525414168835
+1525	histidinol	2	metabolite	0.9256307482719421
+1526	homoarginine	2	metabolite	0.07376298308372498
+1527	homocitrulline	2	metabolite	-0.55912846326828
+1528	homovanillate	2	metabolite	-0.5235820412635803
+1529	hydrochlorothiazide	2	metabolite	-0.935883104801178
+1530	hydrocinnamate	2	metabolite	-0.005123605020344257
+1531	hydroxycotinine	2	metabolite	-1.184251308441162
+1532	hydroxymyristate	2	metabolite	-1.114047646522522
+1533	hydroxyproline	2	metabolite	-0.48675107955932617
+1534	hyodeoxycholate/ursodeoxycholate	2	metabolite	0.9774455428123474
+1535	hypoxanthine	2	metabolite	-0.058852918446063995
+1536	imidazole propionate	2	metabolite	0.2654207646846771
+1537	imidazoleacetic acid	2	metabolite	-0.26211032271385193
+1538	imidazolelactate	2	metabolite	-0.764319658279419
+1539	indole-3-propionate	2	metabolite	-0.22668497264385223
+1540	indoleacetate	2	metabolite	-0.9355226159095764
+1541	indoxyl sulfate	2	metabolite	-0.7752463817596436
+1542	inosine	2	metabolite	-0.24277889728546143
+1543	isoleucine	2	metabolite	-0.024313898757100105
+1544	ketodeoxycholate	2	metabolite	0.012564046308398247
+1545	kynurenic acid	2	metabolite	0.5765324831008911
+1546	lactate	2	metabolite	-0.42894411087036133
+1547	lactose	2	metabolite	0.41299062967300415
+1548	leucine	2	metabolite	0.2529403269290924
+1549	linoleate	2	metabolite	0.05614848434925079
+1550	linoleoyl ethanolamide	2	metabolite	0.9836822748184204
+1551	linoleoylethanolamide	2	metabolite	0.21368958055973053
+1552	lithocholate	2	metabolite	0.10452824831008911
+1553	lysine	2	metabolite	0.03188130632042885
+1554	malate	2	metabolite	-0.7698284387588501
+1555	malonate	2	metabolite	0.6395326852798462
+1556	mandelate	2	metabolite	-1.2420251369476318
+1557	masilinate	2	metabolite	-0.4034859240055084
+1558	metformin	2	metabolite	-1.047487497329712
+1559	methionine	2	metabolite	-0.14381621778011322
+1560	methionine sulfoxide	2	metabolite	-0.261956125497818
+1561	methylimidazole acetic acid	2	metabolite	2.0774614810943604
+1562	metronidazole	2	metabolite	-0.8657486438751221
+1563	myristate	2	metabolite	0.37498223781585693
+1564	myristoleate	2	metabolite	-0.7666540741920471
+1565	nervonic acid	2	metabolite	-0.05026830732822418
+1566	niacinamide	2	metabolite	0.15029065310955048
+1567	nicotinate	2	metabolite	-0.30844730138778687
+1568	nicotinuric acid	2	metabolite	0.1557479053735733
+1569	nonadecanoate	2	metabolite	-0.8214452266693115
+1570	norepinephrine	2	metabolite	-0.350780189037323
+1571	oleanate	2	metabolite	0.15235190093517303
+1572	oleate	2	metabolite	0.2567749619483948
+1573	olmesartan	2	metabolite	-0.7756414413452148
+1574	ornithine	2	metabolite	-0.3651289939880371
+1575	orotate	2	metabolite	-0.6142509579658508
+1576	oxalate	2	metabolite	1.5981367826461792
+1577	oxymetazoline	2	metabolite	-0.8011561632156372
+1578	oxypurinol	2	metabolite	-0.4361583888530731
+1579	p-hydroxyphenylacetate	2	metabolite	0.24376331269741058
+1580	palmitate	2	metabolite	0.7604010701179504
+1581	palmithoylethanolamide	2	metabolite	-1.2986423969268799
+1582	palmitoleate	2	metabolite	-0.123652882874012
+1583	palmitoylethanolamide	2	metabolite	-0.43446364998817444
+1584	pantothenate	2	metabolite	-0.05581648275256157
+1585	pentadecanoate	2	metabolite	0.6792331337928772
+1586	pentose monophosphate	2	metabolite	0.11840775609016418
+1587	phenylacetate	2	metabolite	-0.0624842494726181
+1588	phenylacetylglutamine	2	metabolite	-0.9234327673912048
+1589	phenylalanine	2	metabolite	0.8764458894729614
+1590	phenyllactate	2	metabolite	-0.3524928390979767
+1591	phytanate	2	metabolite	-0.5060603618621826
+1592	phytosphingosine	2	metabolite	0.3456149101257324
+1593	pipecolic acid	2	metabolite	0.11394289135932922
+1594	piperine	2	metabolite	-0.31317415833473206
+1595	porphobilinogen	2	metabolite	0.17697428166866302
+1596	proline	2	metabolite	0.17227140069007874
+1597	proline betaine	2	metabolite	-0.13941684365272522
+1598	propionate	2	metabolite	0.2920880615711212
+1599	pseudouridine	2	metabolite	0.11345861107110977
+1600	pterin	2	metabolite	0.5634012222290039
+1601	putrescine	2	metabolite	-0.5311470031738281
+1602	pyridoxine	2	metabolite	-0.08310935646295547
+1603	pyrocatechol	2	metabolite	0.2562483251094818
+1604	quinine	2	metabolite	-0.40447676181793213
+1605	riboflavin	2	metabolite	-0.5379054546356201
+1606	ribothymidine	2	metabolite	-0.0955372229218483
+1607	saccharin	2	metabolite	0.8189674019813538
+1608	salicylate	2	metabolite	-0.17148283123970032
+1609	sebacate	2	metabolite	0.6581796407699585
+1610	serine	2	metabolite	-1.2133508920669556
+1611	serotonin	2	metabolite	-0.5688287019729614
+1612	shikimate	2	metabolite	0.17563055455684662
+1613	sorbitol	2	metabolite	0.07012727111577988
+1614	spermidine	2	metabolite	0.9121785759925842
+1615	sphinganine	2	metabolite	0.9115049242973328
+1616	sphingosine	2	metabolite	0.12411193549633026
+1617	sphingosine-isomer1	2	metabolite	0.35358723998069763
+1618	sphingosine-isomer2	2	metabolite	-0.1210176944732666
+1619	sphingosine-isomer3	2	metabolite	0.8980263471603394
+1620	stearate	2	metabolite	-0.18104435503482819
+1621	suberate	2	metabolite	1.16753089427948
+1622	succinate	2	metabolite	0.5151932835578918
+1623	sulfapyridine	2	metabolite	-0.7160626649856567
+1624	tartarate	2	metabolite	-0.5753896236419678
+1625	taurine	2	metabolite	0.2844184935092926
+1626	tauro-alpha-muricholate/tauro-beta-muricholate	2	metabolite	0.1305750459432602
+1627	taurochenodeoxycholate	2	metabolite	0.10268820077180862
+1628	taurocholate	2	metabolite	-0.5916745662689209
+1629	taurodeoxycholate	2	metabolite	1.1218594312667847
+1630	taurohyodeoxycholate/tauroursodeoxycholate	2	metabolite	-1.2990479469299316
+1631	taurolithocholate	2	metabolite	-0.30312809348106384
+1632	tetradecanedioate	2	metabolite	-0.7829056978225708
+1633	tetrahydro-1-methyl-beta-carboline-3-carboxylate	2	metabolite	-0.44576478004455566
+1634	theophylline	2	metabolite	0.69310063123703
+1635	threonine	2	metabolite	-0.17971043288707733
+1636	threosphingosine	2	metabolite	-0.4029198884963989
+1637	thymine	2	metabolite	-0.266595721244812
+1638	trigonelline	2	metabolite	0.008285359479486942
+1639	trimethylamine-N-oxide	2	metabolite	-0.9067515134811401
+1640	trimethylbenzene	2	metabolite	0.2907099425792694
+1641	tryptophan	2	metabolite	0.2511562705039978
+1642	tyrosine	2	metabolite	-0.4595578610897064
+1643	undecanedionate	2	metabolite	-0.4513503313064575
+1644	uracil	2	metabolite	-0.13671933114528656
+1645	urate	2	metabolite	0.7100404500961304
+1646	uridine	2	metabolite	0.1402513086795807
+1647	urobilin	2	metabolite	0.4964401125907898
+1648	valerate/isovalerate	2	metabolite	0.5841386914253235
+1649	valine	2	metabolite	0.008538794703781605
+1650	xanthine	2	metabolite	0.1553541123867035
+1651	xanthurenate	2	metabolite	0.43717852234840393
+1652	xylose	2	metabolite	0.5937395095825195
+0	UNKNOWN	bias	microbe	2.3976166248321533
+1	c__Methanobacteria|o__Methanobacteriales	bias	microbe	-0.9858219027519226
+2	c__Thermoplasmata|o__Methanomassiliicoccales	bias	microbe	0.11939376592636108
+3	c__Actinobacteria|o__Actinomycetales	bias	microbe	-0.3562746047973633
+4	c__Actinobacteria|o__Bifidobacteriales	bias	microbe	1.623780369758606
+5	c__Actinobacteria|o__Corynebacteriales	bias	microbe	0.8120777606964111
+6	c__Actinobacteria|o__Micrococcales	bias	microbe	-1.1800228357315063
+7	c__Actinobacteria|o__Propionibacteriales	bias	microbe	-0.38482415676116943
+8	c__Coriobacteriia|o__Coriobacteriales	bias	microbe	0.09584562480449677
+9	c__Coriobacteriia|o__Eggerthellales	bias	microbe	-0.5753458142280579
+10	c__Bacteroidia|o__Bacteroidales	bias	microbe	3.8636860847473145
+11	c__Candidatus_Melainabacteria_unclassified|o__Candidatus_Gastranaerophilales	bias	microbe	0.30826470255851746
+12	c__Bacilli|o__Bacillales	bias	microbe	1.7950990200042725
+13	c__Bacilli|o__Lactobacillales	bias	microbe	1.7054814100265503
+14	c__Clostridia|o__Clostridiales	bias	microbe	3.5691990852355957
+15	c__Erysipelotrichia|o__Erysipelotrichales	bias	microbe	1.0002256631851196
+16	c__Firmicutes_unclassified|o__Firmicutes_unclassified	bias	microbe	1.4963390827178955
+17	c__Negativicutes|o__Acidaminococcales	bias	microbe	0.958548903465271
+18	c__Negativicutes|o__Selenomonadales	bias	microbe	0.76017165184021
+19	c__Negativicutes|o__Veillonellales	bias	microbe	2.1465885639190674
+20	c__Tissierellia|o__Tissierellales	bias	microbe	-0.06646842509508133
+21	c__Tissierellia|o__Tissierellia_unclassified	bias	microbe	1.042059302330017
+22	c__Fusobacteriia|o__Fusobacteriales	bias	microbe	0.6983409523963928
+23	c__Lentisphaeria|o__Victivallales	bias	microbe	-0.33532312512397766
+24	c__Betaproteobacteria|o__Burkholderiales	bias	microbe	-1.2175841331481934
+25	c__Betaproteobacteria|o__Neisseriales	bias	microbe	1.149315357208252
+26	c__Deltaproteobacteria|o__Desulfovibrionales	bias	microbe	-0.6848365664482117
+27	c__Epsilonproteobacteria|o__Campylobacterales	bias	microbe	-0.13589277863502502
+28	c__Gammaproteobacteria|o__Enterobacterales	bias	microbe	1.6602885723114014
+29	c__Gammaproteobacteria|o__Pasteurellales	bias	microbe	-1.045526146888733
+30	c__Gammaproteobacteria|o__Pseudomonadales	bias	microbe	-0.7173117399215698
+31	c__Proteobacteria_unclassified|o__Proteobacteria_unclassified	bias	microbe	0.7013121247291565
+32	c__Synergistia|o__Synergistales	bias	microbe	0.3983170688152313
+33	c__Verrucomicrobiae|o__Verrucomicrobiales	bias	microbe	2.8407270908355713
+34	c__Saccharomycetes|o__Saccharomycetales	bias	microbe	-0.49719738960266113
+35	c__Eukaryota_unclassified|o__Eukaryota_unclassified	bias	microbe	1.0161315202713013
+0	1-3-7-trimethylurate	bias	metabolite	0.0
+1	1-methylguanine	bias	metabolite	-2.139854907989502
+2	1-methylguanosine	bias	metabolite	-2.767589807510376
+3	1-methylhistamine	bias	metabolite	-2.6909782886505127
+4	1-methylnicotinamide	bias	metabolite	-0.7237754464149475
+5	1.2.3.4-tetrahydro-beta-carboline-1.3-dicarboxylate	bias	metabolite	-2.9114460945129395
+6	10-heptadecenoate	bias	metabolite	-1.3639826774597168
+7	10-nonadecenoate	bias	metabolite	-2.12485933303833
+8	12.13-diHOME	bias	metabolite	-0.32241350412368774
+9	13-cis-retinoic acid	bias	metabolite	-2.1640231609344482
+10	13-docosenoate	bias	metabolite	-1.5551129579544067
+11	17-methylstearate	bias	metabolite	-2.648054361343384
+12	2'-O-methyladenosine	bias	metabolite	-2.3062849044799805
+13	2-aminoadipate	bias	metabolite	-2.2922399044036865
+14	2-aminobutyrate	bias	metabolite	-0.3831258714199066
+15	2-aminoheptanoic acid	bias	metabolite	-1.2483736276626587
+16	2-deoxyadenosine	bias	metabolite	-0.08419221639633179
+17	2-deoxycytidine	bias	metabolite	-0.5103150010108948
+18	2-hydroxy-3-methylbutyrate	bias	metabolite	-2.037052869796753
+19	2-hydroxy-3-methylpentanoate	bias	metabolite	-1.101371169090271
+20	2-hydroxyglutarate	bias	metabolite	-1.7172640562057495
+21	2-hydroxyhexadecanoate	bias	metabolite	-0.06871701031923294
+22	2-hydroxyibuprofen	bias	metabolite	-2.5571680068969727
+23	2-hydroxyoctanoate	bias	metabolite	-0.9152445793151855
+24	21-deoxycortisol	bias	metabolite	-2.0203030109405518
+25	3'-O-methyladenosine	bias	metabolite	-0.6102054119110107
+26	3-hydroxydecanoate	bias	metabolite	-3.3666982650756836
+27	3-hydroxymethylglutarate	bias	metabolite	-1.9919517040252686
+28	3-hydroxyoctanoate	bias	metabolite	-1.294859528541565
+29	3-methyladipate/pimelate	bias	metabolite	-1.3663911819458008
+30	3-methylglutaconate	bias	metabolite	-2.2176156044006348
+31	3-methylhistidine	bias	metabolite	-0.5678189396858215
+32	3-methylxanthine	bias	metabolite	-2.729659080505371
+33	4-aminophenol	bias	metabolite	-2.870015859603882
+34	4-guanidinobutanoic acid	bias	metabolite	-2.537454128265381
+35	4-hydroxy-3-methylacetophenone	bias	metabolite	-3.1844160556793213
+36	4-hydroxybenzaldehyde	bias	metabolite	-1.763614535331726
+37	4-hydroxybenzeneacetonitrile	bias	metabolite	-1.3433276414871216
+38	4-hydroxystyrene	bias	metabolite	-2.312302827835083
+39	4-methylcatechol	bias	metabolite	-3.620253086090088
+40	4-nitrophenol	bias	metabolite	-3.728259801864624
+41	4-pyridoxate	bias	metabolite	-1.1505991220474243
+42	5-acetylamino-6-amino-3-methyluracil	bias	metabolite	-1.6764286756515503
+43	5-aminolevulinic acid	bias	metabolite	0.16869287192821503
+44	5-dodecenoate	bias	metabolite	-1.7412128448486328
+45	5-hydroxytryptophan	bias	metabolite	-2.8760995864868164
+46	5alpha-cholestan-3beta-ol	bias	metabolite	-3.3051390647888184
+47	7-methylguanine	bias	metabolite	-1.8309162855148315
+48	7-methylxanthine	bias	metabolite	1.044815182685852
+49	8-hydroxy-deoxyguanosine	bias	metabolite	-1.6189268827438354
+50	9.10-diHOME	bias	metabolite	-1.8191605806350708
+51	ADMA/SDMA	bias	metabolite	1.5716665983200073
+52	C10 carnitine	bias	metabolite	-2.9959471225738525
+53	C10:2 carnitine	bias	metabolite	-2.0762972831726074
+54	C12 carnitine	bias	metabolite	-1.6006230115890503
+55	C12:1 carnitine	bias	metabolite	-2.263213634490967
+56	C14 carnitine	bias	metabolite	-3.0614001750946045
+57	C14:0 CE	bias	metabolite	-1.2961480617523193
+58	C14:0 LPC	bias	metabolite	-3.018925428390503
+59	C14:0 SM	bias	metabolite	-1.7065836191177368
+60	C14:1 carnitine	bias	metabolite	-2.54065203666687
+61	C14:2 carnitine	bias	metabolite	-2.5568888187408447
+62	C16 carnitine	bias	metabolite	-2.1951441764831543
+63	C16-OH carnitine	bias	metabolite	-0.6435878276824951
+64	C16:0 CE	bias	metabolite	-2.887228488922119
+65	C16:0 Ceramide (d18:1)	bias	metabolite	-1.8744879961013794
+66	C16:0 LPC	bias	metabolite	0.4283863306045532
+67	C16:0 LPE	bias	metabolite	0.04022347182035446
+68	C16:0 SM	bias	metabolite	-1.407772183418274
+69	C16:1 CE	bias	metabolite	-2.8337714672088623
+70	C16:1 LPC	bias	metabolite	-1.196022391319275
+71	C16:1 LPC plasmalogen	bias	metabolite	-2.367525100708008
+72	C16:1 LPE	bias	metabolite	-1.7094718217849731
+73	C16:1 MAG	bias	metabolite	-2.9755587577819824
+74	C16:1 SM	bias	metabolite	-2.536949634552002
+75	C18 carnitine	bias	metabolite	-2.0631558895111084
+76	C18:0 CE	bias	metabolite	-2.454721212387085
+77	C18:0 LPC	bias	metabolite	-0.9984229207038879
+78	C18:0 LPE	bias	metabolite	-2.1722123622894287
+79	C18:0 LPE-A	bias	metabolite	-0.2892111837863922
+80	C18:0 LPE-B	bias	metabolite	-0.3162965774536133
+81	C18:0 MAG	bias	metabolite	-1.3496867418289185
+82	C18:0 SM	bias	metabolite	-3.197986364364624
+83	C18:1 CE	bias	metabolite	-2.0763492584228516
+84	C18:1 LPC	bias	metabolite	-0.11928659677505493
+85	C18:1 LPC plasmalogen	bias	metabolite	-1.7586338520050049
+86	C18:1 LPE	bias	metabolite	-2.5715508460998535
+87	C18:1 SM	bias	metabolite	-0.9493407011032104
+88	C18:1 carnitine	bias	metabolite	-1.7573683261871338
+89	C18:1-OH carnitine	bias	metabolite	-0.5569574236869812
+90	C18:2 CE	bias	metabolite	-2.1473381519317627
+91	C18:2 LPC	bias	metabolite	0.11878850311040878
+92	C18:2 LPE	bias	metabolite	-2.3623769283294678
+93	C18:2 carnitine	bias	metabolite	-1.568869709968567
+94	C18:3 CE	bias	metabolite	-0.9720616936683655
+95	C18:3 LPC	bias	metabolite	1.1054600477218628
+96	C2 Ceramide (d18:1)	bias	metabolite	-2.47906756401062
+97	C2 carnitine	bias	metabolite	-0.8560770153999329
+98	C20 carnitine	bias	metabolite	-2.616624593734741
+99	C20:0 LPE	bias	metabolite	-2.5072715282440186
+100	C20:0 SM	bias	metabolite	-2.002849817276001
+101	C20:1 LPC	bias	metabolite	-2.6150643825531006
+102	C20:3 CE	bias	metabolite	-1.2928147315979004
+103	C20:3 LPC	bias	metabolite	-0.7795758247375488
+104	C20:4 CE	bias	metabolite	-2.2939529418945312
+105	C20:4 LPC	bias	metabolite	-3.4077563285827637
+106	C20:4 LPE	bias	metabolite	-3.754077196121216
+107	C20:4 carnitine	bias	metabolite	-0.9966336488723755
+108	C20:5 CE	bias	metabolite	-2.8288731575012207
+109	C20:5 LPC	bias	metabolite	-2.420712471008301
+110	C22:0 Ceramide (d18:1)	bias	metabolite	-2.105271816253662
+111	C22:0 LPE	bias	metabolite	-1.1280303001403809
+112	C22:0 SM	bias	metabolite	-2.1355583667755127
+113	C22:1 MAG	bias	metabolite	-2.249847888946533
+114	C22:1 SM	bias	metabolite	-1.2467389106750488
+115	C22:4 CE	bias	metabolite	-1.250342845916748
+116	C22:5 CE	bias	metabolite	-2.473325729370117
+117	C22:6 CE	bias	metabolite	-0.5348533987998962
+118	C22:6 LPC	bias	metabolite	-1.2402740716934204
+119	C22:6 LPE	bias	metabolite	-0.6472430229187012
+120	C24:0 Ceramide (d18:1)	bias	metabolite	-0.7615154981613159
+121	C24:0 SM	bias	metabolite	-2.003535032272339
+122	C24:1 Ceramide (d18:1)	bias	metabolite	-1.884192705154419
+123	C24:1 SM	bias	metabolite	-2.109860420227051
+124	C3 carnitine	bias	metabolite	-2.6922640800476074
+125	C3-DC-CH3 carnitine	bias	metabolite	-1.7273509502410889
+126	C30:0 DAG	bias	metabolite	-1.0365983247756958
+127	C30:0 PC	bias	metabolite	-2.8195958137512207
+128	C32:0 DAG	bias	metabolite	-1.2753256559371948
+129	C32:0 PC	bias	metabolite	-1.903364896774292
+130	C32:0 PE	bias	metabolite	-0.5572126507759094
+131	C32:1 DAG	bias	metabolite	-1.2445422410964966
+132	C32:1 PC	bias	metabolite	-3.0907702445983887
+133	C32:2 DAG	bias	metabolite	-1.881490707397461
+134	C34:0 DAG	bias	metabolite	-1.3330494165420532
+135	C34:0 PC	bias	metabolite	-3.3580880165100098
+136	C34:0 PE	bias	metabolite	-1.072615623474121
+137	C34:1 DAG	bias	metabolite	-0.32149577140808105
+138	C34:1 PC	bias	metabolite	-1.6544215679168701
+139	C34:1 PC plasmalogen	bias	metabolite	-2.1401047706604004
+140	C34:2 DAG	bias	metabolite	-1.1779676675796509
+141	C34:2 PC	bias	metabolite	-0.8648883104324341
+142	C34:2 PC plasmalogen	bias	metabolite	-2.5189123153686523
+143	C34:3 DAG	bias	metabolite	-1.8187371492385864
+144	C34:3 PC	bias	metabolite	-2.3026065826416016
+145	C34:4 PC plasmalogen	bias	metabolite	-1.1733144521713257
+146	C36:0 DAG	bias	metabolite	-2.4620320796966553
+147	C36:1 DAG	bias	metabolite	-0.3077318072319031
+148	C36:1 PC	bias	metabolite	-1.5214685201644897
+149	C36:1 PC plasmalogen	bias	metabolite	-3.8427088260650635
+150	C36:2 DAG	bias	metabolite	0.0703120231628418
+151	C36:2 PC	bias	metabolite	-1.0268607139587402
+152	C36:2 PC plasmalogen	bias	metabolite	-2.8139443397521973
+153	C36:3 DAG	bias	metabolite	-0.2813865542411804
+154	C36:3 PC	bias	metabolite	-2.0671563148498535
+155	C36:4 DAG	bias	metabolite	-2.147404670715332
+156	C36:4 PC plasmalogen	bias	metabolite	-3.01804518699646
+157	C36:4 PC-A	bias	metabolite	-2.4164888858795166
+158	C36:4 PC-B	bias	metabolite	-2.260761260986328
+159	C36:5 PC plasmalogen	bias	metabolite	-2.5627667903900146
+160	C38:2 PC	bias	metabolite	-1.9140607118606567
+161	C38:3 PC	bias	metabolite	-3.766094923019409
+162	C38:4 PC	bias	metabolite	-2.7197790145874023
+163	C38:4 PC plasmalogen	bias	metabolite	-1.7588516473770142
+164	C38:5 DAG	bias	metabolite	-3.829474449157715
+165	C38:6 PC	bias	metabolite	-2.4607927799224854
+166	C4 carnitine	bias	metabolite	-0.34083813428878784
+167	C42:0 TAG	bias	metabolite	-1.6224477291107178
+168	C44:0 TAG	bias	metabolite	-2.3595409393310547
+169	C44:1 TAG	bias	metabolite	-2.506267547607422
+170	C44:2 TAG	bias	metabolite	-1.7365214824676514
+171	C45:0 TAG	bias	metabolite	-1.2391551733016968
+172	C46:0 TAG	bias	metabolite	-0.8523451089859009
+173	C46:1 TAG	bias	metabolite	-2.5743072032928467
+174	C46:2 TAG	bias	metabolite	-2.8110299110412598
+175	C46:3 TAG	bias	metabolite	-2.7366690635681152
+176	C48:0 TAG	bias	metabolite	-2.871882677078247
+177	C48:1 TAG	bias	metabolite	-1.3441139459609985
+178	C48:2 TAG	bias	metabolite	-1.618604063987732
+179	C48:3 TAG	bias	metabolite	-3.397195339202881
+180	C48:4 TAG	bias	metabolite	-1.1058672666549683
+181	C5 carnitine	bias	metabolite	-1.5923197269439697
+182	C50:0 TAG	bias	metabolite	-2.3824782371520996
+183	C50:1 TAG	bias	metabolite	-2.431980609893799
+184	C50:2 TAG	bias	metabolite	-1.653022289276123
+185	C50:3 TAG	bias	metabolite	-2.8129749298095703
+186	C50:4 TAG	bias	metabolite	-2.2481658458709717
+187	C50:5 TAG	bias	metabolite	-3.1323893070220947
+188	C51:0 TAG	bias	metabolite	-2.516842842102051
+189	C51:1 TAG	bias	metabolite	-2.808120012283325
+190	C51:2 TAG	bias	metabolite	-1.3034342527389526
+191	C51:3 TAG	bias	metabolite	-2.908546209335327
+192	C52:0 TAG	bias	metabolite	-1.5775275230407715
+193	C52:1 TAG	bias	metabolite	-1.4996081590652466
+194	C52:2 TAG	bias	metabolite	-1.9114900827407837
+195	C52:3 TAG	bias	metabolite	0.21990956366062164
+196	C52:4 TAG	bias	metabolite	-0.6872228384017944
+197	C52:5 TAG	bias	metabolite	-2.2253644466400146
+198	C52:6 TAG	bias	metabolite	-1.6644357442855835
+199	C52:7 TAG	bias	metabolite	-2.390065908432007
+200	C53:3 TAG	bias	metabolite	-1.8198044300079346
+201	C54:1 TAG	bias	metabolite	-1.5486968755722046
+202	C54:2 TAG	bias	metabolite	-1.063900351524353
+203	C54:3 TAG	bias	metabolite	-1.5620688199996948
+204	C54:4 TAG	bias	metabolite	0.12944580614566803
+205	C54:5 TAG	bias	metabolite	-1.0428181886672974
+206	C54:6 TAG	bias	metabolite	-1.120902419090271
+207	C55:2 TAG	bias	metabolite	0.004472826141864061
+208	C55:3 TAG	bias	metabolite	-0.033869482576847076
+209	C56:1 TAG	bias	metabolite	-2.1888303756713867
+210	C56:2 TAG	bias	metabolite	-1.3844887018203735
+211	C56:3 TAG	bias	metabolite	-1.234120488166809
+212	C56:4 TAG	bias	metabolite	-2.136636257171631
+213	C56:6 TAG	bias	metabolite	-1.7425991296768188
+214	C56:7 TAG	bias	metabolite	-2.5584166049957275
+215	C58:10 TAG	bias	metabolite	-1.131423830986023
+216	C8 carnitine	bias	metabolite	0.13736258447170258
+217	C9 carnitine	bias	metabolite	-1.7113598585128784
+218	N-acetyalanine	bias	metabolite	-3.062166213989258
+219	N-acetylaspartic acid	bias	metabolite	-2.2579355239868164
+220	N-acetylglutamate	bias	metabolite	-1.8814337253570557
+221	N-acetylglutamine	bias	metabolite	-2.2244930267333984
+222	N-acetylhistamine	bias	metabolite	0.9080631136894226
+223	N-acetylhistidine	bias	metabolite	-2.275122880935669
+224	N-acetylornithine	bias	metabolite	-2.4697864055633545
+225	N-acetylputrescine	bias	metabolite	-1.1534478664398193
+226	N-alpha-acetylarginine	bias	metabolite	-2.976577043533325
+227	N-carbamoyl-beta-alanine	bias	metabolite	-1.6723273992538452
+228	N-methylproline	bias	metabolite	-1.5769456624984741
+229	N1,N12-diacetylspermine	bias	metabolite	0.10352364182472229
+230	N1-acetylspermidine	bias	metabolite	-0.17487318813800812
+231	N1-acetylspermine	bias	metabolite	1.5756416320800781
+232	N1-methyl-2-pyridone-5-carboxamide	bias	metabolite	-1.7374986410140991
+233	N2,N2-dimethylguanosine	bias	metabolite	-2.8343451023101807
+234	N6,N6,N6-trimethyllysine	bias	metabolite	-1.16313636302948
+235	N6,N6-dimethyllysine	bias	metabolite	-2.543754816055298
+236	N6-acetyllysine	bias	metabolite	-0.3002403974533081
+237	NH4_C16:0 CE	bias	metabolite	-0.11091383546590805
+238	NH4_C16:1 CE	bias	metabolite	-2.6668665409088135
+239	NH4_C16:1 MAG	bias	metabolite	-1.5445060729980469
+240	NH4_C18:0 CE	bias	metabolite	-2.725426435470581
+241	NH4_C18:0 MAG	bias	metabolite	-2.9516971111297607
+242	NH4_C18:1 CE	bias	metabolite	-1.4701788425445557
+243	NH4_C18:2 CE	bias	metabolite	-1.6912816762924194
+244	NH4_C18:3 CE	bias	metabolite	-3.7144434452056885
+245	NH4_C20:3 CE	bias	metabolite	-1.1590086221694946
+246	NH4_C20:4 CE	bias	metabolite	-3.4600534439086914
+247	NH4_C20:5 CE	bias	metabolite	-2.078213691711426
+248	NH4_C22:1 MAG	bias	metabolite	-2.4305522441864014
+249	NH4_C22:4 CE	bias	metabolite	-2.4402899742126465
+250	NH4_C22:5 CE	bias	metabolite	-2.768646717071533
+251	NH4_C22:6 CE	bias	metabolite	-2.6515886783599854
+252	NH4_C32:1 DAG	bias	metabolite	-2.3639235496520996
+253	NH4_C32:2 DAG	bias	metabolite	-1.6739307641983032
+254	NH4_C34:1 DAG	bias	metabolite	-0.7282540798187256
+255	NH4_C34:2 DAG	bias	metabolite	0.34294211864471436
+256	NH4_C34:3 DAG	bias	metabolite	-0.8637688755989075
+257	NH4_C36:0 DAG	bias	metabolite	-2.537493944168091
+258	NH4_C36:1 DAG	bias	metabolite	-0.25862225890159607
+259	NH4_C36:2 DAG	bias	metabolite	-0.04891165345907211
+260	NH4_C36:3 DAG	bias	metabolite	0.5238193273544312
+261	NH4_C36:4 DAG	bias	metabolite	1.6926043033599854
+262	NH4_C38:4 DAG	bias	metabolite	-1.3544028997421265
+263	NH4_C38:5 DAG	bias	metabolite	-2.0879228115081787
+264	NH4_C42:0 TAG	bias	metabolite	-0.9990190267562866
+265	NH4_C44:0 TAG	bias	metabolite	0.09039291739463806
+266	NH4_C44:1 TAG	bias	metabolite	-2.5077648162841797
+267	NH4_C44:2 TAG	bias	metabolite	-1.434749960899353
+268	NH4_C46:0 TAG	bias	metabolite	-0.9068384766578674
+269	NH4_C46:1 TAG	bias	metabolite	-1.333897352218628
+270	NH4_C46:2 TAG	bias	metabolite	-2.6363346576690674
+271	NH4_C46:3 TAG	bias	metabolite	-2.010456085205078
+272	NH4_C48:0 TAG	bias	metabolite	-0.7846072912216187
+273	NH4_C48:1 TAG	bias	metabolite	-4.398824214935303
+274	NH4_C48:2 TAG	bias	metabolite	-1.7236614227294922
+275	NH4_C48:3 TAG	bias	metabolite	-1.961279034614563
+276	NH4_C48:4 TAG	bias	metabolite	-2.4751293659210205
+277	NH4_C49:1 TAG	bias	metabolite	-1.9807720184326172
+278	NH4_C50:0 TAG	bias	metabolite	-1.9430348873138428
+279	NH4_C50:1 TAG	bias	metabolite	-1.4943416118621826
+280	NH4_C50:2 TAG	bias	metabolite	-1.64706552028656
+281	NH4_C50:3 TAG	bias	metabolite	-1.4528332948684692
+282	NH4_C50:4 TAG	bias	metabolite	-2.0394766330718994
+283	NH4_C50:5 TAG	bias	metabolite	-2.7055251598358154
+284	NH4_C51:0 TAG	bias	metabolite	-2.674696922302246
+285	NH4_C51:1 TAG	bias	metabolite	-1.171136736869812
+286	NH4_C51:2 TAG	bias	metabolite	-3.1443076133728027
+287	NH4_C51:3 TAG	bias	metabolite	-1.9773870706558228
+288	NH4_C52:0 TAG	bias	metabolite	-2.064020872116089
+289	NH4_C52:1 TAG	bias	metabolite	-2.360226631164551
+290	NH4_C52:2 TAG	bias	metabolite	-0.14020569622516632
+291	NH4_C52:3 TAG	bias	metabolite	-0.4801391065120697
+292	NH4_C52:4 TAG	bias	metabolite	-1.266477108001709
+293	NH4_C52:5 TAG	bias	metabolite	-0.9850565195083618
+294	NH4_C52:6 TAG	bias	metabolite	-0.5915688276290894
+295	NH4_C53:2 TAG	bias	metabolite	-1.3453783988952637
+296	NH4_C53:3 TAG	bias	metabolite	-2.1691131591796875
+297	NH4_C54:2 TAG	bias	metabolite	-0.8408746719360352
+298	NH4_C54:3 TAG	bias	metabolite	-0.8666726350784302
+299	NH4_C54:4 TAG	bias	metabolite	0.6759304404258728
+300	NH4_C54:5 TAG	bias	metabolite	-0.3093482255935669
+301	NH4_C54:6 TAG	bias	metabolite	-0.43497204780578613
+302	NH4_C56:1 TAG	bias	metabolite	-2.797227144241333
+303	NH4_C56:2 TAG	bias	metabolite	-3.152405261993408
+304	NH4_C56:3 TAG	bias	metabolite	-0.4260597229003906
+305	NH4_C56:4 TAG	bias	metabolite	-2.7255327701568604
+306	NH4_C56:6 TAG	bias	metabolite	-3.021915912628174
+307	NMMA	bias	metabolite	-2.5094871520996094
+308	S-adenosylmethionine	bias	metabolite	-1.5750652551651
+309	S-methylcysteine-S-oxide	bias	metabolite	-2.2209858894348145
+310	UMP	bias	metabolite	-2.690145969390869
+311	acesulfame	bias	metabolite	-1.1551074981689453
+312	acetaminophen	bias	metabolite	-1.2942053079605103
+313	acetyl-galactosamine	bias	metabolite	-1.4714362621307373
+314	acetylalanine	bias	metabolite	-1.363885760307312
+315	acetylcholine	bias	metabolite	-1.0723953247070312
+316	acetytyrosine	bias	metabolite	-1.7937730550765991
+317	adenine	bias	metabolite	-2.406423807144165
+318	adenosine	bias	metabolite	-1.948002576828003
+319	adipate	bias	metabolite	-2.1610100269317627
+320	adrenate	bias	metabolite	-1.302720546722412
+321	agmatine	bias	metabolite	-0.13365870714187622
+322	alanine	bias	metabolite	-2.312462091445923
+323	alanylalanine	bias	metabolite	0.2001246064901352
+324	alloisoleucine	bias	metabolite	-1.3399684429168701
+325	alpha-CEHC	bias	metabolite	-1.6985522508621216
+326	alpha-glycerophosphate	bias	metabolite	-2.346285820007324
+327	alpha-glycerophosphocholine	bias	metabolite	-2.6024374961853027
+328	alpha-hydroxymetoprolol	bias	metabolite	-2.4928183555603027
+329	alpha-ketoglutarate	bias	metabolite	-1.9044941663742065
+330	alpha-ketoisovalerate	bias	metabolite	-0.6499494910240173
+331	alpha-linolenate	bias	metabolite	-0.6657490730285645
+332	alpha-muricholate	bias	metabolite	-1.6624301671981812
+333	aminoisobutyric acid/GABA	bias	metabolite	-0.7832882404327393
+334	anserine	bias	metabolite	-2.60056734085083
+335	arachidate	bias	metabolite	-1.5174140930175781
+336	arachidonate	bias	metabolite	-0.6750495433807373
+337	arginine	bias	metabolite	-0.32300370931625366
+338	ascorbate	bias	metabolite	-1.3759015798568726
+339	asparagine	bias	metabolite	-4.1960906982421875
+340	aspartate	bias	metabolite	-0.8681154251098633
+341	atenolol	bias	metabolite	-0.7182003855705261
+342	azelate	bias	metabolite	-1.6079238653182983
+343	beta-alanine	bias	metabolite	0.7077180743217468
+344	beta-guanidinopropionic acid	bias	metabolite	-2.4343512058258057
+345	beta-sitosterol	bias	metabolite	-3.020949363708496
+346	betaine	bias	metabolite	-0.6770133376121521
+347	bilirubin	bias	metabolite	-0.711851954460144
+348	biliverdin	bias	metabolite	-1.3568193912506104
+349	biotin	bias	metabolite	-0.93888920545578
+350	butyrate	bias	metabolite	-1.3033506870269775
+351	butyrobetaine	bias	metabolite	0.05889510735869408
+352	cadaverine	bias	metabolite	0.3660804033279419
+353	caffeine	bias	metabolite	-1.5119601488113403
+354	caprate	bias	metabolite	-3.0711421966552734
+355	caproate	bias	metabolite	-1.6885480880737305
+356	caprylate	bias	metabolite	-1.714625358581543
+357	carboxyibuprofen	bias	metabolite	-2.7068545818328857
+358	carnitine	bias	metabolite	-1.0816771984100342
+359	carnosol	bias	metabolite	-2.493779420852661
+360	carnosol_isomer	bias	metabolite	-4.285318851470947
+361	cetrizine	bias	metabolite	-2.490063428878784
+362	chenodeoxycholate	bias	metabolite	0.21532051265239716
+363	cholate	bias	metabolite	-0.09151964634656906
+364	cholesterol	bias	metabolite	-3.077486038208008
+365	choline	bias	metabolite	-0.9778397679328918
+366	cinnamoylglycine	bias	metabolite	1.2348123788833618
+367	citrate	bias	metabolite	-1.3513942956924438
+368	citrulline	bias	metabolite	-0.2676694989204407
+369	corticosterone	bias	metabolite	-1.5612109899520874
+370	cortisol	bias	metabolite	-1.6821234226226807
+371	cotinine	bias	metabolite	-1.1135025024414062
+372	creatine	bias	metabolite	-0.5540386438369751
+373	creatinine	bias	metabolite	0.267095148563385
+374	crustecdysone	bias	metabolite	-2.947335958480835
+375	cystine	bias	metabolite	-2.69720196723938
+376	cytidine	bias	metabolite	-0.6518716216087341
+377	cytosine	bias	metabolite	-2.2749643325805664
+378	dCMP	bias	metabolite	-1.261862874031067
+379	dTMP	bias	metabolite	-3.1693716049194336
+380	deoxycholate	bias	metabolite	0.3643052577972412
+381	diacetylspermine	bias	metabolite	-0.7123575210571289
+382	diaminopimelate	bias	metabolite	-1.9837146997451782
+383	dihydroorotate	bias	metabolite	-2.448481559753418
+384	dimethylglycine	bias	metabolite	-3.2618203163146973
+385	docosahexaenoate	bias	metabolite	-1.901364803314209
+386	docosapentaenoate	bias	metabolite	-0.5029265284538269
+387	dodecanedioate	bias	metabolite	-0.21795406937599182
+388	dodecanoate	bias	metabolite	-0.29262667894363403
+389	ectoine	bias	metabolite	1.1137512922286987
+390	eicosadienoate	bias	metabolite	-2.2457454204559326
+391	eicosanedioate	bias	metabolite	-2.4551572799682617
+392	eicosapentaenoate	bias	metabolite	-1.5250673294067383
+393	eicosatrienoate	bias	metabolite	-1.5638347864151
+394	eicosenoate	bias	metabolite	-0.5577974915504456
+395	epiandrosterone	bias	metabolite	-2.0101125240325928
+396	erythronate	bias	metabolite	-2.1295230388641357
+397	ethyl glucuronide	bias	metabolite	-1.9727513790130615
+398	fructose/glucose/galactose	bias	metabolite	-1.8184534311294556
+399	fucose	bias	metabolite	-0.5342579483985901
+400	fumarate/maleate	bias	metabolite	-3.1475257873535156
+401	furosemide	bias	metabolite	-1.9978586435317993
+402	gabapentin	bias	metabolite	-0.7836443781852722
+403	gemfibrozil	bias	metabolite	-3.35137677192688
+404	gentisate	bias	metabolite	-2.7794361114501953
+405	glutamate	bias	metabolite	-0.44437098503112793
+406	glutamine	bias	metabolite	-1.3568408489227295
+407	glycerate	bias	metabolite	-3.0683650970458984
+408	glycine	bias	metabolite	-1.746698260307312
+409	glycochenodeoxycholate	bias	metabolite	-0.7123449444770813
+410	glycocholate	bias	metabolite	-0.016571784391999245
+411	glycodeoxycholate	bias	metabolite	-0.47452712059020996
+412	glycolithocholate	bias	metabolite	-3.9899892807006836
+413	glycoursodeoxycholate	bias	metabolite	-0.550780713558197
+414	guanidoacetic acid	bias	metabolite	-1.185265064239502
+415	guanine	bias	metabolite	-2.2169861793518066
+416	guanosine	bias	metabolite	-1.2939907312393188
+417	heptadecanoate	bias	metabolite	-1.8568341732025146
+418	heptanoate	bias	metabolite	-2.7765309810638428
+419	hexadecanedioate	bias	metabolite	-1.0492370128631592
+420	hippurate	bias	metabolite	-1.0515720844268799
+421	histamine	bias	metabolite	-1.4105273485183716
+422	histidine	bias	metabolite	-2.3123207092285156
+423	histidinol	bias	metabolite	-1.5802074670791626
+424	homoarginine	bias	metabolite	-0.5454774498939514
+425	homocitrulline	bias	metabolite	-2.8568012714385986
+426	homovanillate	bias	metabolite	-1.8757344484329224
+427	hydrochlorothiazide	bias	metabolite	-1.7252265214920044
+428	hydrocinnamate	bias	metabolite	-1.889604091644287
+429	hydroxycotinine	bias	metabolite	-3.5118420124053955
+430	hydroxymyristate	bias	metabolite	-1.1032098531723022
+431	hydroxyproline	bias	metabolite	-3.1654787063598633
+432	hyodeoxycholate/ursodeoxycholate	bias	metabolite	-1.6812912225723267
+433	hypoxanthine	bias	metabolite	-1.992409348487854
+434	imidazole propionate	bias	metabolite	-1.0771194696426392
+435	imidazoleacetic acid	bias	metabolite	-1.1339434385299683
+436	imidazolelactate	bias	metabolite	-2.58679461479187
+437	indole-3-propionate	bias	metabolite	-2.3022115230560303
+438	indoleacetate	bias	metabolite	-2.7430317401885986
+439	indoxyl sulfate	bias	metabolite	-1.0587868690490723
+440	inosine	bias	metabolite	-0.5483694076538086
+441	isoleucine	bias	metabolite	2.529088258743286
+442	ketodeoxycholate	bias	metabolite	-0.5008318424224854
+443	kynurenic acid	bias	metabolite	-1.8714789152145386
+444	lactate	bias	metabolite	-1.0522814989089966
+445	lactose	bias	metabolite	-1.8563885688781738
+446	leucine	bias	metabolite	2.1072027683258057
+447	linoleate	bias	metabolite	0.115275077521801
+448	linoleoyl ethanolamide	bias	metabolite	-0.791632354259491
+449	linoleoylethanolamide	bias	metabolite	-1.6535226106643677
+450	lithocholate	bias	metabolite	-0.9741507172584534
+451	lysine	bias	metabolite	-2.4475314617156982
+452	malate	bias	metabolite	-0.7465953826904297
+453	malonate	bias	metabolite	-2.274651527404785
+454	mandelate	bias	metabolite	-2.6206157207489014
+455	masilinate	bias	metabolite	-1.2325941324234009
+456	metformin	bias	metabolite	-1.859185814857483
+457	methionine	bias	metabolite	-1.8631166219711304
+458	methionine sulfoxide	bias	metabolite	-2.7118968963623047
+459	methylimidazole acetic acid	bias	metabolite	0.4694739282131195
+460	metronidazole	bias	metabolite	-1.005623459815979
+461	myristate	bias	metabolite	-1.1296076774597168
+462	myristoleate	bias	metabolite	-0.7828693389892578
+463	nervonic acid	bias	metabolite	-2.8922321796417236
+464	niacinamide	bias	metabolite	-1.0220568180084229
+465	nicotinate	bias	metabolite	-1.3649061918258667
+466	nicotinuric acid	bias	metabolite	-1.6280736923217773
+467	nonadecanoate	bias	metabolite	-1.6974189281463623
+468	norepinephrine	bias	metabolite	-0.6417871117591858
+469	oleanate	bias	metabolite	-2.4048895835876465
+470	oleate	bias	metabolite	0.4940495491027832
+471	olmesartan	bias	metabolite	-1.8921332359313965
+472	ornithine	bias	metabolite	-2.613339424133301
+473	orotate	bias	metabolite	-3.098660945892334
+474	oxalate	bias	metabolite	-0.492732435464859
+475	oxymetazoline	bias	metabolite	-1.5282540321350098
+476	oxypurinol	bias	metabolite	-1.477122187614441
+477	p-hydroxyphenylacetate	bias	metabolite	-2.2358880043029785
+478	palmitate	bias	metabolite	0.08193225413560867
+479	palmithoylethanolamide	bias	metabolite	-0.3339746296405792
+480	palmitoleate	bias	metabolite	-1.4829072952270508
+481	palmitoylethanolamide	bias	metabolite	-2.45845103263855
+482	pantothenate	bias	metabolite	-0.347365140914917
+483	pentadecanoate	bias	metabolite	-0.4425611197948456
+484	pentose monophosphate	bias	metabolite	-1.2046223878860474
+485	phenylacetate	bias	metabolite	-2.4633684158325195
+486	phenylacetylglutamine	bias	metabolite	-1.1811203956604004
+487	phenylalanine	bias	metabolite	1.449693202972412
+488	phenyllactate	bias	metabolite	0.21818779408931732
+489	phytanate	bias	metabolite	-1.5916298627853394
+490	phytosphingosine	bias	metabolite	-0.2936103045940399
+491	pipecolic acid	bias	metabolite	-2.2719180583953857
+492	piperine	bias	metabolite	0.17254622280597687
+493	porphobilinogen	bias	metabolite	-0.8050311207771301
+494	proline	bias	metabolite	-1.2712842226028442
+495	proline betaine	bias	metabolite	-1.4368369579315186
+496	propionate	bias	metabolite	-2.3616151809692383
+497	pseudouridine	bias	metabolite	-2.7101895809173584
+498	pterin	bias	metabolite	-0.3511180579662323
+499	putrescine	bias	metabolite	-1.510416030883789
+500	pyridoxine	bias	metabolite	-0.2996956706047058
+501	pyrocatechol	bias	metabolite	-2.5723862648010254
+502	quinine	bias	metabolite	-2.651214599609375
+503	riboflavin	bias	metabolite	-1.828781247138977
+504	ribothymidine	bias	metabolite	-2.2366831302642822
+505	saccharin	bias	metabolite	-1.0026780366897583
+506	salicylate	bias	metabolite	-2.563979387283325
+507	sebacate	bias	metabolite	-2.2681665420532227
+508	serine	bias	metabolite	-1.9008915424346924
+509	serotonin	bias	metabolite	-3.585348606109619
+510	shikimate	bias	metabolite	-3.4336836338043213
+511	sorbitol	bias	metabolite	-1.7209669351577759
+512	spermidine	bias	metabolite	2.192474126815796
+513	sphinganine	bias	metabolite	-0.9065210223197937
+514	sphingosine	bias	metabolite	-1.6695513725280762
+515	sphingosine-isomer1	bias	metabolite	0.8518674969673157
+516	sphingosine-isomer2	bias	metabolite	-0.3413437008857727
+517	sphingosine-isomer3	bias	metabolite	1.4393846988677979
+518	stearate	bias	metabolite	-1.6525866985321045
+519	suberate	bias	metabolite	0.07554439455270767
+520	succinate	bias	metabolite	-0.6646784543991089
+521	sulfapyridine	bias	metabolite	0.14682234823703766
+522	tartarate	bias	metabolite	-0.15703575313091278
+523	taurine	bias	metabolite	0.14874520897865295
+524	tauro-alpha-muricholate/tauro-beta-muricholate	bias	metabolite	-2.7032642364501953
+525	taurochenodeoxycholate	bias	metabolite	0.6750840544700623
+526	taurocholate	bias	metabolite	-0.5802704691886902
+527	taurodeoxycholate	bias	metabolite	-1.4904210567474365
+528	taurohyodeoxycholate/tauroursodeoxycholate	bias	metabolite	-0.4063391089439392
+529	taurolithocholate	bias	metabolite	-1.8118560314178467
+530	tetradecanedioate	bias	metabolite	-3.4047842025756836
+531	tetrahydro-1-methyl-beta-carboline-3-carboxylate	bias	metabolite	-1.1348694562911987
+532	theophylline	bias	metabolite	-1.4883517026901245
+533	threonine	bias	metabolite	-1.8231149911880493
+534	threosphingosine	bias	metabolite	-2.188490629196167
+535	thymine	bias	metabolite	-1.7891976833343506
+536	trigonelline	bias	metabolite	-1.7849186658859253
+537	trimethylamine-N-oxide	bias	metabolite	-4.044663429260254
+538	trimethylbenzene	bias	metabolite	-2.6187334060668945
+539	tryptophan	bias	metabolite	2.003139019012451
+540	tyrosine	bias	metabolite	-0.09909247606992722
+541	undecanedionate	bias	metabolite	-1.5347883701324463
+542	uracil	bias	metabolite	-2.404510736465454
+543	urate	bias	metabolite	0.5116399526596069
+544	uridine	bias	metabolite	-1.2925759553909302
+545	urobilin	bias	metabolite	-0.30280449986457825
+546	valerate/isovalerate	bias	metabolite	-2.1636712551116943
+547	valine	bias	metabolite	1.978655219078064
+548	xanthine	bias	metabolite	-1.75667142868042
+549	xanthurenate	bias	metabolite	-1.15530526638031
+550	xylose	bias	metabolite	-2.9730050563812256

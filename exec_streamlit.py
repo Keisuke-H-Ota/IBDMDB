@@ -177,7 +177,6 @@ text = '''
 
 このプロジェクトでは**クローン病（CD）**患者 67 名、**潰瘍性大腸炎（UC）**患者 38 名、**非炎症性腸疾患（nonIBD）**患者 27 名から約 1 年間にわたって糞便試料が提供されています。
 アプリケーションでは被験者ごとに約 1 年間分のメタゲノムデータおよびメタボロームデータを追跡・可視化することができます。**次のプルダウンから着目したい被験者を選択しましょう。**\n
-性質の似ている被験者を調べたい場合は [PLS-ROG](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/cem.2883) の解析結果を参考にしましょう。[こちら](https://keisukeota.shinyapps.io/IBDMDB/)を参照してください。
 
 '''
 st.markdown(text)
@@ -234,6 +233,14 @@ with md_col2:
 
     st.markdown(text)
 
+text = '''
+
+性質の似ている被験者を調べたい場合は [PLS-ROG](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/cem.2883) の解析結果を参考にしましょう。
+[こちら](https://keisukeota.shinyapps.io/IBDMDB/)を参照してください。
+
+'''
+
+st.markdown(text)
 
 text = '''
 
@@ -244,15 +251,12 @@ text = '''
 
 st.markdown(text)
 
-Participant_info_lst = ['性別','年齢','職業','学歴']
-select_Participant_info = st.selectbox('項目を選んでください',Participant_info_lst, index=0,key='select_Participant_info_lst')
-
 @st.cache(allow_output_mutation=True, suppress_st_warning=True, max_entries=10, ttl=3600)
 def Metadata_dist_chart(select_column,axis_title):
     if not select_column == 'consent_age':
         Metadata_dist_chart = alt.Chart(Metadata_dist_df).mark_bar(opacity=0.5).encode(
             x=alt.X(select_column, 
-                axis=alt.Axis(labelFontSize=15, ticks=True, titleFontSize=18, title=axis_title)
+                axis=alt.Axis(labelAngle=-45, labelFontSize=15, ticks=True, titleFontSize=18, title=axis_title)
                 ),
             y=alt.Y('count()',
                 axis=alt.Axis(labelFontSize=15, ticks=True, titleFontSize=18,title='人数'),
@@ -260,7 +264,7 @@ def Metadata_dist_chart(select_column,axis_title):
                 ),
             color=alt.Color('diagnosis',legend=None),
             column=alt.Column('diagnosis:N',
-                header=alt.Header(labelFontSize=15, titleFontSize=18, title='病名')
+                header=alt.Header(labelFontSize=15, labelColor='gray',titleFontSize=18, title='病名', titleColor='gray')
                 )
             ).properties(
             width=1000/len(select_diag),
@@ -278,7 +282,7 @@ def Metadata_dist_chart(select_column,axis_title):
                 ),
             color=alt.Color('diagnosis',legend=None),
             column=alt.Column('diagnosis:N',
-                header=alt.Header(labelFontSize=15, titleFontSize=18, title='病名')
+                header=alt.Header(labelFontSize=15, labelColor='gray',titleFontSize=18, title='病名', titleColor='gray')
                 )
             ).properties(
             width=1000/len(select_diag),
@@ -286,16 +290,21 @@ def Metadata_dist_chart(select_column,axis_title):
             ).interactive()
     return Metadata_dist_chart
 
-if select_Participant_info == '性別':
-    Metadata_dist_chart = Metadata_dist_chart('sex','性別')
-elif select_Participant_info == '年齢':
-    Metadata_dist_chart = Metadata_dist_chart('consent_age','年齢')
-elif select_Participant_info == '学歴':
-    Metadata_dist_chart = Metadata_dist_chart('Education Level','学歴')
-elif select_Participant_info == '職業':
-     Metadata_dist_chart = Metadata_dist_chart('Occupation','職業')
+with st.expander('被験者の度数分布'):
 
-st.write(Metadata_dist_chart)
+    Participant_info_lst = ['性別','年齢','職業','学歴']
+    select_Participant_info = st.selectbox('項目を選んでください',Participant_info_lst, index=0,key='select_Participant_info_lst')
+
+    if select_Participant_info == '性別':
+        Metadata_dist_chart = Metadata_dist_chart('sex','性別')
+    elif select_Participant_info == '年齢':
+        Metadata_dist_chart = Metadata_dist_chart('consent_age','年齢')
+    elif select_Participant_info == '学歴':
+        Metadata_dist_chart = Metadata_dist_chart('Education Level','学歴')
+    elif select_Participant_info == '職業':
+         Metadata_dist_chart = Metadata_dist_chart('Occupation','職業')
+
+    st.write(Metadata_dist_chart)
 
 # メタゲノムデータの可視化
 
@@ -584,7 +593,7 @@ def Stool_MGX_Microbes_chart():
                     axis=alt.Axis(labelAngle=0,labelFontSize=15, ticks=True, titleFontSize=18, title='Dysbiosis score')
                     ),
                 column=alt.Column('diagnosis:N', 
-                    header=alt.Header(labelFontSize=15, titleFontSize=18, title='病名')
+                    header=alt.Header(labelFontSize=15, labelColor='gray',titleFontSize=18, title='病名', titleColor='gray')
                     ),
                 tooltip=['Participant ID','week_num']
             ).transform_calculate(
@@ -606,7 +615,7 @@ def Stool_MGX_Microbes_chart():
                     axis=alt.Axis(labelAngle=0,labelFontSize=15, ticks=True, titleFontSize=18, title=None)
                     ),
                 column=alt.Column('diagnosis:N', 
-                    header=alt.Header(labelFontSize=15, titleFontSize=18, title='病名')
+                    header=alt.Header(labelFontSize=15, labelColor='gray',titleFontSize=18, title='病名', titleColor='gray')
                     )
             ).properties(width=40,height=500)
 
@@ -678,7 +687,7 @@ def Stool_MGX_Microbes_chart():
                     ),
                 color=alt.Color('Microbes',legend=None),
                 column=alt.Column('diagnosis:N', 
-                    header=alt.Header(labelFontSize=15, titleFontSize=18, title='病名')
+                    header=alt.Header(labelFontSize=15, labelColor='gray',titleFontSize=18, title='病名', titleColor='gray')
                     ),
                 tooltip=['Participant ID','week_num']
             ).transform_calculate(
@@ -704,7 +713,7 @@ def Stool_MGX_Microbes_chart():
                     ),
                 color=alt.Color('Microbes',legend=None),
                 column=alt.Column('diagnosis:N', 
-                    header=alt.Header(labelFontSize=15, titleFontSize=18, title='病名')
+                    header=alt.Header(labelFontSize=15, labelColor='gray',titleFontSize=18, title='病名', titleColor='gray')
                     )
             ).add_selection(
                 Microbes_select
@@ -1455,11 +1464,22 @@ st.markdown('# 細菌と代謝物の関連について')
 
 text = '''
 
-糞便に含まれる細菌と代謝物の関連を調べます。ここでは**スピアマンの相関係数**と [**mmvec**](https://www.nature.com/articles/s41592-019-0616-3?proof=t) によって推定される共起確率が表示されます。
+糞便に含まれる細菌と代謝物の関連を調べます。ここでは**スピアマンの相関係数**と [**mmvec**](https://www.nature.com/articles/s41592-019-0616-3?proof=t) によって推定される**共起確率**が表示されます。
 共起確率は全被験者のデータに基づきあらかじめ算出された結果が表示されますが、相関係数はサイドバーで選択された被験者から算出された結果が表示されます。
 
 '''
 st.markdown(text)
+
+with st.expander('共起確率と相関係数について'):
+    text = '''
+    共起確率とは、細菌と代謝物のどちらか一方が観察されたとき、もう一方も観察される確率のことです。
+    したがって細菌と代謝物のどちらか一方、あるいは両方の存在量が少ない場合、共起確率は低くなります。
+    すなわち共起確率は、存在量の多いメジャーな細菌や代謝物であるほど高くなる傾向があります。
+    そのため、共起確率が高いメジャーな細菌と代謝物の組み合わせでも相関係数が低かったり、
+    共起確率が低いマイナーな細菌と代謝物の組み合わせでも相関係数が高かったりすることもあります。
+
+    '''
+    st.markdown(text)
 
 Level = st.selectbox('細菌の分類階級を選んでください',Level_lst, index=5,key='Stool_MGX_MBX_select_Level')
 
